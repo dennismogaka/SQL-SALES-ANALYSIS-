@@ -4,6 +4,7 @@
 
 ''' Postgresql
 SELECT COUNT(*) FROM `sample_sales_data`;
+'''
 
 /*Write a query to find average revenue*/
 "SELECT CAST(AVG(`COL 12`) AS DECIMAL(10,0)) AS AVg_Revenue"
