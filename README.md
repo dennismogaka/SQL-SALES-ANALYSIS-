@@ -1,6 +1,6 @@
 ## SQL-SALES-ANALYSIS
 **write a query to retrieve all records from a table name sampl_sales_data**:
-'''sql
+''' sql.
 SELECT COUNT(*) FROM `sample_sales_data`;
 '''
 
