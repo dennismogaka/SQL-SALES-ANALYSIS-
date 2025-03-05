@@ -1,8 +1,8 @@
 ## SQL-SALES-ANALYSIS
 
 **write a query to retrieve all records from a table name sampl_sales_data**:
-
-'''SQL
+'''md
+'''POSTGREQL
 SELECT COUNT(*) FROM `sample_sales_data`'''
 
 /*Write a query to find average revenue*/
