@@ -1,10 +1,10 @@
 # SQL-SALES-ANALYSIS
 /*write a query to retrieve all records from a table name sampl_sales_data*/
-# SELECT COUNT(*) FROM `sample_sales_data`;
+"SELECT COUNT(*) FROM `sample_sales_data`;"
 
 /*Write a query to find average revenue*/
-# SELECT CAST(AVG(`COL 12`) AS DECIMAL(10,0)) AS AVg_Revenue
-# FROM sample_sales_data;
+"SELECT CAST(AVG(`COL 12`) AS DECIMAL(10,0)) AS AVg_Revenue"
+"FROM sample_sales_data;"
 
 /*write a query to find the mode for column7*/
 SELECT `COL 7` AS Mode_Quantity,
