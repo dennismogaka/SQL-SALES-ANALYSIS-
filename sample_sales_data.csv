@@ -1,0 +1,1201 @@
+Transaction_ID,Date,Store_ID,Channel,Product_ID,Product_Category,Quantity,Price_Per_Unit,Discount,Customer_Segment,Region,Revenue
+T1000,1/1/2024,8,In-store,144,Clothing,9,365.22,0.09,VIP,Central,2991.15
+T1001,1/2/2024,10,Online,128,Sports,9,381.06,0.37,VIP,South,2160.61
+T1002,1/3/2024,17,In-store,123,Beauty,9,430.96,0.23,VIP,Central,2986.55
+T1003,1/4/2024,1,In-store,141,Electronics,8,174.51,0.10,New,North,1256.47
+T1004,1/5/2024,7,In-store,104,Electronics,9,170.18,0.49,Regular,Central,781.13
+T1005,1/6/2024,13,In-store,120,Clothing,6,51.67,0.44,Regular,East,173.61
+T1006,1/7/2024,9,Online,145,Clothing,7,219.03,0.19,New,East,1241.90
+T1007,1/8/2024,1,In-store,135,Sports,8,97.65,0.10,New,South,703.08
+T1008,1/9/2024,7,In-store,147,Sports,3,232.5,0.46,New,South,376.65
+T1009,1/10/2024,14,In-store,140,Sports,9,144.65,0.38,VIP,North,807.15
+T1010,1/11/2024,6,Online,147,Beauty,4,211.13,0.12,VIP,East,743.18
+T1011,1/12/2024,19,Online,123,Beauty,9,245.86,0.04,VIP,North,2124.23
+T1012,1/13/2024,19,Online,114,Sports,2,190.48,0.01,New,Central,377.15
+T1013,1/14/2024,5,In-store,146,Electronics,8,225.46,0.42,Regular,West,1046.13
+T1014,1/15/2024,3,In-store,127,Clothing,8,345.24,0.38,Regular,Central,1712.39
+T1015,1/16/2024,3,In-store,130,Clothing,1,477.62,0.17,Regular,South,396.42
+T1016,1/17/2024,19,Online,107,Home & Kitchen,5,235.67,0.16,Regular,Central,1023.10
+T1017,1/18/2024,18,Online,119,Home & Kitchen,5,365.99,0.09,VIP,North,1665.25
+T1018,1/19/2024,1,Online,113,Sports,4,192.1,0.30,VIP,North,268.94
+T1019,1/20/2024,1,In-store,109,Clothing,1,170.96,0.12,VIP,East,150.44
+T1020,1/21/2024,20,Online,132,Sports,1,104.51,0.06,VIP,East,98.24
+T1021,1/22/2024,11,In-store,150,Sports,4,48.65,0.00,New,North,194.60
+T1022,1/23/2024,7,In-store,138,Home & Kitchen,10,322.51,0.15,VIP,South,1019.49
+T1023,1/24/2024,3,In-store,133,Beauty,5,478.87,0.09,VIP,East,2178.86
+T1024,1/25/2024,18,Online,131,Clothing,5,478.9,0.33,New,North,1604.31
+T1025,1/26/2024,9,Online,105,Beauty,4,342.58,0.07,VIP,West,1274.40
+T1026,1/27/2024,9,In-store,103,Clothing,6,103.73,0.29,New,East,441.89
+T1027,1/28/2024,15,Online,129,Electronics,5,165.61,0.02,Regular,West,811.49
+T1028,1/29/2024,6,Online,118,Beauty,7,308.23,0.12,VIP,South,1898.70
+T1029,1/30/2024,7,In-store,113,Beauty,3,267.86,0.13,Regular,East,699.11
+T1030,1/31/2024,16,In-store,136,Electronics,1,216.51,0.13,New,North,188.36
+T1031,2/1/2024,7,In-store,105,Electronics,4,441.93,0.31,New,Central,1219.73
+T1032,2/2/2024,14,Online,101,Beauty,7,157.16,0.26,New,South,814.09
+T1033,2/3/2024,3,Online,106,,10,192.41,0.02,Regular,West,1885.62
+T1034,2/4/2024,13,In-store,113,Home & Kitchen,5,133,0.08,New,Central,611.80
+T1035,2/5/2024,19,Online,122,Beauty,7,222.67,0.05,New,East,1480.76
+T1036,2/6/2024,3,Online,104,Clothing,5,52.63,0.50,VIP,North,131.58
+T1037,2/7/2024,3,Online,111,Electronics,7,144.14,0.08,VIP,South,928.26
+T1038,2/8/2024,5,Online,124,Home & Kitchen,1,398.41,0.46,VIP,Central,215.14
+T1039,2/9/2024,12,In-store,102,Beauty,7,49.36,0.37,New,East,217.68
+T1040,2/10/2024,7,In-store,139,Sports,1,258.63,0.13,Regular,East,225.01
+T1041,2/11/2024,10,Online,130,Sports,8,59.1,0.46,New,North,255.31
+T1042,2/12/2024,13,Online,120,Clothing,2,163.5,0.15,Regular,South,277.95
+T1043,2/13/2024,4,In-store,127,Home & Kitchen,9,10.75,0.14,New,West,83.20
+T1044,2/14/2024,11,Online,136,Sports,4,400.34,0.13,New,South,1393.18
+T1045,2/15/2024,3,In-store,109,Clothing,8,339.74,0.39,VIP,East,1657.93
+T1046,2/16/2024,20,In-store,148,Clothing,3,103.74,0.19,Regular,West,252.09
+T1047,2/17/2024,17,In-store,144,Home & Kitchen,8,63.61,0.48,VIP,East,1021.63
+T1048,2/18/2024,9,In-store,128,Electronics,4,184.92,0.22,New,Central,576.95
+T1049,2/19/2024,6,In-store,127,Beauty,7,325.77,0.19,New,West,1847.12
+T1050,2/20/2024,11,In-store,104,Beauty,6,141.27,0.48,New,East,440.76
+T1051,2/21/2024,15,Online,138,Sports,8,422.57,0.31,VIP,South,2332.59
+T1052,2/22/2024,1,In-store,107,Sports,6,346.98,0.33,New,North,1394.86
+T1053,2/23/2024,15,In-store,149,Clothing,3,470.62,0.39,VIP,East,861.23
+T1054,2/24/2024,15,Online,102,Clothing,7,373.35,0.02,New,East,2561.18
+T1055,2/25/2024,14,Online,124,Home & Kitchen,3,76.59,0.07,VIP,South,213.69
+T1056,2/26/2024,20,Online,145,Sports,9,170.71,0.11,VIP,South,1367.39
+T1057,2/27/2024,9,Online,115,Clothing,4,294.41,0.04,Regular,East,1130.53
+T1058,2/28/2024,14,In-store,103,,6,446.72,0.19,New,East,2171.06
+T1059,2/29/2024,15,In-store,142,Beauty,9,83.94,0.34,New,West,498.60
+T1060,3/1/2024,11,In-store,103,Beauty,6,472.32,0.28,Regular,West,2040.42
+T1061,3/2/2024,15,Online,111,Beauty,6,326.23,0.08,New,Central,1800.79
+T1062,3/3/2024,9,In-store,106,Electronics,9,296.62,0.24,New,South,2028.88
+T1063,3/4/2024,2,In-store,118,Electronics,9,106.19,0.26,New,North,707.23
+T1064,3/5/2024,20,In-store,148,Home & Kitchen,4,106.91,0.04,New,South,410.53
+T1065,3/6/2024,13,In-store,110,,6,379.74,0.22,Regular,East,1777.18
+T1066,3/7/2024,6,In-store,112,Clothing,2,162.11,0.13,VIP,East,282.07
+T1067,3/8/2024,6,In-store,144,Home & Kitchen,4,362.87,0.12,New,North,1277.30
+T1068,3/9/2024,10,Online,105,Electronics,2,100.8,0.47,VIP,East,106.85
+T1069,3/10/2024,6,In-store,136,Clothing,3,341.54,0.36,VIP,North,655.76
+T1070,3/11/2024,18,In-store,139,Beauty,9,468.45,0.26,VIP,South,3119.88
+T1071,3/12/2024,15,Online,146,Sports,6,103.47,0.01,Regular,South,614.61
+T1072,3/13/2024,20,In-store,141,Electronics,2,467.25,0.28,New,North,672.84
+T1073,3/14/2024,14,Online,108,Clothing,3,154.19,0.47,VIP,North,1023.69
+T1074,3/15/2024,18,Online,115,Clothing,6,57.19,0.38,New,West,212.75
+T1075,3/16/2024,4,In-store,103,Sports,3,414.79,0.30,Regular,Central,871.06
+T1076,3/17/2024,20,Online,132,Electronics,1,377.36,0.03,VIP,East,366.04
+T1077,3/18/2024,11,Online,134,Sports,3,309.21,0.03,VIP,West,899.80
+T1078,3/19/2024,1,Online,150,Beauty,8,353.67,0.47,Regular,West,1499.56
+T1079,3/20/2024,8,Online,121,Beauty,5,492.79,0.21,New,North,1946.52
+T1080,3/21/2024,11,Online,111,Clothing,10,14.51,0.26,VIP,West,107.37
+T1081,3/22/2024,6,In-store,144,Sports,6,185.72,0.43,New,East,635.16
+T1082,3/23/2024,20,Online,115,Sports,1,457.81,0.44,Regular,Central,256.37
+T1083,3/24/2024,16,In-store,150,Clothing,3,361.84,0.41,Regular,South,1021.33
+T1084,3/25/2024,5,In-store,135,Clothing,4,86.4,0.39,VIP,West,210.82
+T1085,3/26/2024,13,In-store,110,Electronics,9,482.98,0.49,Regular,Central,2216.88
+T1086,3/27/2024,11,In-store,142,Sports,4,107.72,0.43,New,West,307.00
+T1087,3/28/2024,18,Online,118,Beauty,8,155.74,0.09,New,North,1133.79
+T1088,3/29/2024,10,Online,149,Clothing,2,172.49,0.37,New,East,217.34
+T1089,3/30/2024,16,Online,126,Beauty,6,396.8,0.05,New,East,2261.76
+T1090,3/31/2024,1,In-store,101,Sports,3,35.27,0.30,VIP,North,1021.04
+T1091,4/1/2024,14,In-store,105,Beauty,4,139.44,0.49,VIP,Central,284.46
+T1092,4/2/2024,19,Online,108,Beauty,7,269.61,0.29,Regular,South,1339.96
+T1093,4/3/2024,11,Online,101,Sports,6,185.95,0.01,VIP,North,1104.54
+T1094,4/4/2024,8,Online,104,Clothing,1,6.96,0.26,VIP,South,5.15
+T1095,4/5/2024,5,In-store,110,Home & Kitchen,3,271.81,0.28,VIP,Central,587.11
+T1096,4/6/2024,9,In-store,125,Home & Kitchen,9,17.53,0.27,Regular,East,115.17
+T1097,4/7/2024,11,Online,138,Home & Kitchen,3,200.47,0.50,Regular,Central,300.70
+T1098,4/8/2024,20,Online,118,Beauty,1,437.57,0.41,VIP,East,1022.53
+T1099,4/9/2024,10,Online,111,Sports,7,352.79,0.47,VIP,West,1308.85
+T1100,4/10/2024,18,Online,135,Clothing,2,267.27,0.38,VIP,East,331.41
+T1101,4/11/2024,3,Online,127,Clothing,4,258.37,0.49,VIP,Central,527.07
+T1102,4/12/2024,7,Online,136,Clothing,3,213.73,0.48,New,West,333.42
+T1103,4/13/2024,12,In-store,102,Electronics,3,329.11,0.18,New,South,809.61
+T1104,4/14/2024,5,In-store,136,Beauty,9,341.57,0.19,New,North,2490.05
+T1105,4/15/2024,8,In-store,147,Home & Kitchen,4,337.14,0.43,New,Central,768.68
+T1106,4/16/2024,11,In-store,144,Sports,2,253.36,0.33,Regular,North,339.50
+T1107,4/17/2024,8,In-store,113,Electronics,9,405.18,0.11,New,East,3245.49
+T1108,4/18/2024,20,Online,126,Clothing,4,194.49,0.40,VIP,East,116.69
+T1109,4/19/2024,7,Online,121,Clothing,2,87.86,0.48,VIP,West,91.37
+T1110,4/20/2024,3,Online,133,Beauty,8,159.05,0.07,Regular,Central,1183.33
+T1111,4/21/2024,5,Online,140,Electronics,5,266.71,0.19,VIP,Central,1080.18
+T1112,4/22/2024,4,Online,116,Electronics,10,120.49,0.42,VIP,South,698.84
+T1113,4/23/2024,13,In-store,137,Electronics,10,308.03,0.10,VIP,West,2772.27
+T1114,4/24/2024,17,In-store,132,Electronics,8,94.72,0.10,VIP,South,681.98
+T1115,4/25/2024,10,In-store,137,Home & Kitchen,10,415.06,0.48,Regular,South,2158.31
+T1116,4/26/2024,8,Online,113,Electronics,10,334.93,0.08,VIP,South,3081.36
+T1117,4/27/2024,4,In-store,125,Home & Kitchen,10,305.87,0.26,New,East,2263.44
+T1118,4/28/2024,3,In-store,119,Clothing,9,21.41,0.25,New,South,144.52
+T1119,4/29/2024,4,In-store,143,Beauty,4,326.09,0.48,Regular,Central,678.27
+T1120,4/30/2024,16,Online,141,Electronics,3,400.86,0.15,Regular,East,1022.19
+T1121,5/1/2024,2,In-store,112,Clothing,7,90.65,0.09,Regular,North,577.44
+T1122,5/2/2024,7,Online,139,Sports,10,332.17,0.01,VIP,North,3288.48
+T1123,5/3/2024,14,Online,121,Home & Kitchen,4,138.75,0.42,Regular,Central,321.90
+T1124,5/4/2024,18,Online,106,,8,193.4,0.47,Regular,South,820.02
+T1125,5/5/2024,20,Online,149,Sports,5,10.28,0.48,Regular,South,26.73
+T1126,5/6/2024,11,In-store,149,Sports,7,374.67,0.42,Regular,Central,1521.16
+T1127,5/7/2024,9,In-store,101,Clothing,6,167.84,0.21,Regular,South,795.56
+T1128,5/8/2024,14,In-store,121,Clothing,2,192.49,0.10,Regular,South,1026.89
+T1129,5/9/2024,19,In-store,139,Clothing,2,306.15,0.25,VIP,East,1027.20
+T1130,5/10/2024,18,Online,119,Clothing,3,431.71,0.18,VIP,South,1062.01
+T1131,5/11/2024,6,In-store,149,Clothing,10,442.66,0.04,New,Central,4249.54
+T1132,5/12/2024,17,Online,146,Sports,7,456.7,0.05,New,East,3037.05
+T1133,5/13/2024,16,In-store,119,Home & Kitchen,8,249.71,0.34,VIP,East,1318.47
+T1134,5/14/2024,2,In-store,149,Home & Kitchen,4,254.09,0.17,New,Central,843.58
+T1135,5/15/2024,5,In-store,145,Home & Kitchen,9,388.14,0.44,New,North,1956.23
+T1136,5/16/2024,14,In-store,141,Clothing,9,439.72,0.33,VIP,West,2651.51
+T1137,5/17/2024,19,Online,148,Beauty,7,48.47,0.48,VIP,Central,176.43
+T1138,5/18/2024,1,Online,128,Beauty,9,49.17,0.37,VIP,Central,278.79
+T1139,5/19/2024,13,Online,123,Sports,3,158.32,0.25,VIP,South,356.22
+T1140,5/20/2024,1,In-store,104,Clothing,6,153.82,0.45,VIP,Central,507.61
+T1141,5/21/2024,8,Online,101,Electronics,9,84.74,0.08,New,West,701.65
+T1142,5/22/2024,2,In-store,104,Electronics,10,478,0.46,New,East,2581.20
+T1143,5/23/2024,20,In-store,132,Clothing,1,325.89,0.08,Regular,North,299.82
+T1144,5/24/2024,10,In-store,109,Beauty,6,24.11,0.36,New,North,92.58
+T1145,5/25/2024,17,In-store,132,Home & Kitchen,1,353.54,0.18,New,Central,289.90
+T1146,5/26/2024,11,In-store,131,Beauty,2,188.55,0.37,VIP,North,237.57
+T1147,5/27/2024,18,Online,109,Sports,2,95.6,0.47,Regular,Central,101.34
+T1148,5/28/2024,5,Online,143,Beauty,8,165.72,0.33,Regular,East,888.26
+T1149,5/29/2024,9,Online,147,Beauty,7,457.34,0.28,Regular,North,2304.99
+T1150,5/30/2024,7,In-store,108,Beauty,1,479.62,0.05,VIP,South,455.64
+T1151,5/31/2024,10,In-store,101,Electronics,2,150.41,0.15,Regular,West,255.70
+T1152,6/1/2024,16,Online,133,Home & Kitchen,5,53.25,0.15,New,North,226.31
+T1153,6/2/2024,2,In-store,109,Beauty,8,161.7,0.01,VIP,North,1280.66
+T1154,6/3/2024,18,In-store,142,Beauty,1,475.82,0.11,New,West,423.48
+T1155,6/4/2024,7,In-store,130,Home & Kitchen,10,42.29,0.29,Regular,South,300.26
+T1156,6/5/2024,6,In-store,123,Beauty,8,168.75,0.10,New,North,1215.00
+T1157,6/6/2024,17,Online,149,Beauty,7,57.02,0.26,VIP,North,295.36
+T1158,6/7/2024,8,Online,113,Clothing,6,222.38,0.26,New,South,987.37
+T1159,6/8/2024,20,Online,102,Home & Kitchen,4,476.2,0.47,New,Central,1009.54
+T1160,6/9/2024,6,Online,103,Beauty,7,359.16,0.02,Regular,North,2463.84
+T1161,6/10/2024,14,In-store,149,Sports,5,430.78,0.46,VIP,West,1163.11
+T1162,6/11/2024,6,Online,150,Sports,2,281.22,0.05,Regular,South,1018.76
+T1163,6/12/2024,14,Online,133,,3,315.1,0.29,VIP,South,671.16
+T1164,6/13/2024,10,In-store,122,Beauty,1,367.12,0.39,Regular,Central,223.94
+T1165,6/14/2024,2,Online,150,Beauty,2,214.41,0.47,New,North,227.27
+T1166,6/15/2024,6,In-store,109,Home & Kitchen,5,32.92,0.18,VIP,North,134.97
+T1167,6/16/2024,6,Online,146,Home & Kitchen,9,289.36,0.32,Regular,North,1770.88
+T1168,6/17/2024,10,Online,142,Sports,4,313.64,0.25,Regular,South,940.92
+T1169,6/18/2024,13,In-store,142,Clothing,8,166.68,0.32,Regular,West,906.74
+T1170,6/19/2024,3,Online,115,Clothing,8,478.88,0.08,New,South,3524.56
+T1171,6/20/2024,7,In-store,118,Electronics,6,52.99,0.45,Regular,South,1021.69
+T1172,6/21/2024,3,In-store,103,Sports,5,63.31,0.02,VIP,North,310.22
+T1173,6/22/2024,6,Online,133,Electronics,9,376.39,0.04,VIP,East,3252.01
+T1174,6/23/2024,3,Online,119,Clothing,3,213.54,0.18,New,East,525.31
+T1175,6/24/2024,13,Online,130,Clothing,4,76.83,0.32,VIP,East,208.98
+T1176,6/25/2024,16,Online,103,Clothing,2,368.33,0.47,New,South,1022.96
+T1177,6/26/2024,1,Online,146,Electronics,3,188.36,0.35,VIP,Central,367.30
+T1178,6/27/2024,7,In-store,128,Home & Kitchen,3,233.57,0.48,Regular,North,364.37
+T1179,6/28/2024,11,Online,129,Clothing,6,469.4,0.08,New,West,2591.09
+T1180,6/29/2024,20,In-store,149,Sports,2,415.03,0.25,Regular,North,622.54
+T1181,6/30/2024,10,In-store,108,Sports,4,143.76,0.42,New,North,333.52
+T1182,7/1/2024,9,Online,122,Home & Kitchen,1,493.44,0.04,VIP,Central,473.70
+T1183,7/2/2024,10,In-store,110,Sports,10,405.93,0.43,VIP,South,2313.80
+T1184,7/3/2024,4,In-store,125,Beauty,3,247.61,0.28,VIP,North,534.84
+T1185,7/4/2024,14,In-store,108,Electronics,10,412.51,0.20,Regular,West,3300.08
+T1186,7/5/2024,20,In-store,146,Sports,10,6.95,0.20,Regular,East,55.60
+T1187,7/6/2024,17,In-store,102,Beauty,9,311.72,0.49,VIP,East,1430.79
+T1188,7/7/2024,5,Online,133,Electronics,5,78.79,0.21,New,South,311.22
+T1189,7/8/2024,16,Online,141,Sports,7,85.98,0.46,New,North,325.00
+T1190,7/9/2024,15,Online,140,Electronics,4,485.09,0.22,New,South,1513.48
+T1191,7/10/2024,3,Online,130,Clothing,3,339.6,0.12,VIP,South,896.54
+T1192,7/11/2024,2,In-store,141,Beauty,1,470.47,0.18,VIP,East,385.79
+T1193,7/12/2024,20,In-store,128,Home & Kitchen,10,270.16,0.29,Regular,East,1918.14
+T1194,7/13/2024,12,In-store,114,Electronics,5,391.9,0.18,VIP,North,1606.79
+T1195,7/14/2024,6,In-store,133,Clothing,9,302.85,0.01,New,West,2698.39
+T1196,7/15/2024,19,Online,120,Home & Kitchen,3,95.72,0.25,Regular,North,215.37
+T1197,7/16/2024,17,In-store,105,Home & Kitchen,1,439.64,0.11,Regular,East,391.28
+T1198,7/17/2024,16,Online,101,Beauty,2,375.27,0.30,VIP,East,525.38
+T1199,7/18/2024,7,In-store,101,Sports,9,233.46,0.12,New,East,1849.00
+T1200,7/19/2024,19,In-store,136,Home & Kitchen,8,46.98,0.20,VIP,West,300.67
+T1201,7/20/2024,4,In-store,104,Clothing,8,254.32,0.41,Regular,Central,1200.39
+T1202,7/21/2024,11,Online,141,Electronics,3,270.11,0.44,Regular,North,453.78
+T1203,7/22/2024,20,Online,141,Home & Kitchen,1,229.9,0.25,VIP,Central,172.43
+T1204,7/23/2024,1,In-store,150,Beauty,5,100.77,0.19,New,West,1019.81
+T1205,7/24/2024,11,In-store,143,Electronics,10,390.82,0.28,VIP,Central,2813.90
+T1206,7/25/2024,15,Online,139,,6,56.37,0.31,New,West,233.37
+T1207,7/26/2024,16,Online,112,Clothing,6,47.1,0.31,VIP,North,194.99
+T1208,7/27/2024,10,Online,125,Clothing,6,470.43,0.29,New,North,2004.03
+T1209,7/28/2024,14,In-store,126,Electronics,6,217.85,0.04,VIP,East,1254.82
+T1210,7/29/2024,19,In-store,112,Clothing,4,29.33,0.42,New,Central,68.05
+T1211,7/30/2024,13,Online,135,Home & Kitchen,9,263.91,0.06,VIP,West,2232.68
+T1212,7/31/2024,20,Online,107,Sports,2,208.72,0.30,Regular,North,292.21
+T1213,8/1/2024,10,Online,117,Home & Kitchen,1,223.24,0.11,New,East,198.68
+T1214,8/2/2024,3,Online,124,Sports,3,227.42,0.27,VIP,North,498.05
+T1215,8/3/2024,4,Online,150,Clothing,9,24.45,0.38,Regular,West,136.43
+T1216,8/4/2024,10,Online,104,Beauty,3,499.58,0.23,Regular,South,1154.03
+T1217,8/5/2024,11,In-store,116,Clothing,1,31.85,0.29,New,West,22.61
+T1218,8/6/2024,20,In-store,127,Clothing,7,101.98,0.23,VIP,West,549.67
+T1219,8/7/2024,10,In-store,148,Home & Kitchen,1,431.16,0.09,VIP,South,392.36
+T1220,8/8/2024,5,Online,104,Home & Kitchen,6,147.04,0.21,VIP,South,696.97
+T1221,8/9/2024,5,In-store,133,Beauty,10,310.12,0.11,New,Central,2760.07
+T1222,8/10/2024,13,In-store,118,Beauty,3,397.24,0.29,VIP,West,846.12
+T1223,8/11/2024,4,Online,148,Beauty,4,297.18,0.19,New,Central,962.86
+T1224,8/12/2024,6,In-store,139,Clothing,6,146.11,0.34,VIP,North,578.60
+T1225,8/13/2024,5,Online,136,Home & Kitchen,2,257.42,0.36,Regular,South,329.50
+T1226,8/14/2024,7,Online,133,,1,115.09,0.15,New,Central,97.83
+T1227,8/15/2024,11,In-store,134,Electronics,6,442.63,0.02,VIP,Central,2602.66
+T1228,8/16/2024,5,In-store,129,Sports,3,265.7,0.05,VIP,North,757.24
+T1229,8/17/2024,13,In-store,115,Sports,3,162.48,0.28,New,West,350.96
+T1230,8/18/2024,11,Online,147,Beauty,3,185.11,0.43,VIP,Central,316.54
+T1231,8/19/2024,10,Online,120,Beauty,7,332.39,0.12,New,North,2047.52
+T1232,8/20/2024,4,In-store,107,Electronics,6,469.66,0.18,VIP,East,2310.73
+T1233,8/21/2024,20,Online,147,Sports,10,292.21,0.08,Regular,South,2688.33
+T1234,8/22/2024,3,Online,102,Home & Kitchen,2,42.5,0.10,VIP,West,76.50
+T1235,8/23/2024,15,Online,137,Clothing,1,31.5,0.23,New,West,24.25
+T1236,8/24/2024,14,Online,113,Electronics,9,61.49,0.21,Regular,Central,437.19
+T1237,8/25/2024,7,Online,130,Electronics,9,499.87,0.38,New,East,2789.27
+T1238,8/26/2024,2,Online,123,Electronics,6,15.99,0.44,VIP,Central,53.73
+T1239,8/27/2024,4,Online,122,Electronics,3,406.8,0.13,VIP,Central,1061.75
+T1240,8/28/2024,1,Online,132,Beauty,4,493.55,0.48,New,Central,1026.58
+T1241,8/29/2024,13,In-store,110,Clothing,4,239.18,0.28,Regular,West,688.84
+T1242,8/30/2024,16,In-store,112,Beauty,9,193.21,0.39,VIP,East,1060.72
+T1243,8/31/2024,3,Online,123,Sports,5,429.57,0.37,VIP,Central,1353.15
+T1244,9/1/2024,17,Online,146,Clothing,8,459.66,0.45,Regular,North,2022.50
+T1245,9/2/2024,14,In-store,122,Beauty,3,140.84,0.01,VIP,Central,418.29
+T1246,9/3/2024,15,Online,118,Beauty,6,156.41,0.34,VIP,South,619.38
+T1247,9/4/2024,3,Online,147,Beauty,10,239.6,0.19,Regular,East,1940.76
+T1248,9/5/2024,3,In-store,105,Electronics,7,112.19,0.34,Regular,West,518.32
+T1249,9/6/2024,11,In-store,132,Home & Kitchen,4,125.6,0.42,Regular,North,1023.39
+T1250,9/7/2024,18,In-store,122,Clothing,10,34.99,0.43,VIP,Central,199.44
+T1251,9/8/2024,14,Online,140,Beauty,4,270.49,0.36,Regular,North,692.45
+T1252,9/9/2024,2,In-store,125,Clothing,9,206.5,0.26,VIP,South,1375.29
+T1253,9/10/2024,19,In-store,115,Beauty,6,249.67,0.45,VIP,South,823.91
+T1254,9/11/2024,20,Online,147,Home & Kitchen,1,239.13,0.28,VIP,North,172.17
+T1255,9/12/2024,18,Online,126,Beauty,2,275.27,0.17,Regular,Central,456.95
+T1256,9/13/2024,2,Online,139,Beauty,3,60.36,0.01,Regular,North,179.27
+T1257,9/14/2024,7,Online,109,Home & Kitchen,3,305.83,0.25,New,West,688.12
+T1258,9/15/2024,19,In-store,101,Electronics,7,338.63,0.28,Regular,East,1706.70
+T1259,9/16/2024,10,Online,106,Clothing,10,375.14,0.02,New,Central,3676.37
+T1260,9/17/2024,5,Online,150,Clothing,3,259.31,0.26,VIP,Central,575.67
+T1261,9/18/2024,11,In-store,141,Clothing,10,418.07,0.33,Regular,West,2801.07
+T1262,9/19/2024,13,In-store,123,Clothing,5,140.02,0.48,New,Central,364.05
+T1263,9/20/2024,17,In-store,140,Beauty,9,34.98,0.21,New,North,248.71
+T1264,9/21/2024,4,Online,119,Beauty,4,25.54,0.36,Regular,South,65.38
+T1265,9/22/2024,17,Online,128,Home & Kitchen,7,63.12,0.50,VIP,East,220.92
+T1266,9/23/2024,17,Online,101,Clothing,1,103.44,0.27,VIP,Central,75.51
+T1267,9/24/2024,13,In-store,124,Home & Kitchen,2,173.82,0.33,New,West,232.92
+T1268,9/25/2024,4,In-store,147,Home & Kitchen,6,290.5,0.22,Regular,West,1359.54
+T1269,9/26/2024,16,In-store,111,Sports,10,366.9,0.22,New,East,2861.82
+T1270,9/27/2024,17,Online,107,Beauty,1,432.91,0.18,VIP,North,354.99
+T1271,9/28/2024,18,In-store,144,Beauty,4,425.45,0.32,VIP,North,1157.22
+T1272,9/29/2024,10,In-store,142,Clothing,4,59.91,0.27,VIP,East,306.14
+T1273,9/30/2024,11,In-store,108,Beauty,7,183.32,0.07,Regular,East,1193.41
+T1274,10/1/2024,20,Online,118,Home & Kitchen,4,126.65,0.47,Regular,North,201.37
+T1275,10/2/2024,19,Online,102,Beauty,9,390.33,0.46,VIP,East,1897.00
+T1276,10/3/2024,3,In-store,128,Sports,2,16.06,0.32,New,South,21.84
+T1277,10/4/2024,12,In-store,133,Home & Kitchen,10,398.33,0.44,New,East,2230.65
+T1278,10/5/2024,2,Online,108,Clothing,3,294.05,0.39,Regular,East,538.11
+T1279,10/6/2024,17,Online,112,Clothing,7,419.04,0.26,Regular,East,2170.63
+T1280,10/7/2024,3,Online,118,Sports,4,274.83,0.15,New,South,934.42
+T1281,10/8/2024,4,Online,131,,10,37.47,0.42,New,West,217.33
+T1282,10/9/2024,14,Online,125,Sports,7,373.26,0.09,VIP,East,2377.67
+T1283,10/10/2024,19,In-store,140,Sports,3,6.93,0.02,Regular,Central,20.37
+T1284,10/11/2024,6,Online,117,Beauty,4,174.55,0.44,New,South,390.99
+T1285,10/12/2024,8,In-store,113,,3,281.1,0.41,VIP,East,497.55
+T1286,10/13/2024,16,Online,142,Beauty,3,259.78,0.49,New,East,397.46
+T1287,10/14/2024,18,In-store,101,Home & Kitchen,4,182.44,0.29,VIP,Central,518.13
+T1288,10/15/2024,10,In-store,137,Beauty,1,355.08,0.27,New,Central,259.21
+T1289,10/16/2024,2,In-store,140,,1,397.76,0.35,VIP,Central,258.54
+T1290,10/17/2024,11,Online,111,Sports,8,256.9,0.49,New,Central,1048.15
+T1291,10/18/2024,1,In-store,121,Sports,1,492.73,0.46,VIP,South,266.07
+T1292,10/19/2024,6,In-store,110,Beauty,6,304.67,0.14,VIP,East,1572.10
+T1293,10/20/2024,4,Online,119,Sports,10,473.69,0.47,VIP,South,1027.05
+T1294,10/21/2024,7,Online,139,Home & Kitchen,1,489.52,0.03,New,North,474.83
+T1295,10/22/2024,6,Online,124,Electronics,1,241.22,0.20,VIP,East,192.98
+T1296,10/23/2024,12,In-store,133,Home & Kitchen,3,153.92,0.21,New,South,364.79
+T1297,10/24/2024,4,Online,108,Electronics,8,38.38,0.39,VIP,South,187.29
+T1298,10/25/2024,15,In-store,137,Sports,5,78.67,0.45,Regular,Central,216.34
+T1299,10/26/2024,20,In-store,109,Clothing,4,357.08,0.28,VIP,West,1028.39
+T1300,10/27/2024,20,Online,103,Sports,3,381.74,0.10,Regular,South,1030.70
+T1301,10/28/2024,4,Online,149,Beauty,6,163.34,0.20,Regular,South,784.03
+T1302,10/29/2024,12,Online,148,Clothing,2,225.83,0.11,Regular,Central,1026.90
+T1303,10/30/2024,11,In-store,124,Home & Kitchen,8,344.98,0.03,New,West,2677.04
+T1304,10/31/2024,8,In-store,145,Clothing,6,74.85,0.01,New,West,444.61
+T1305,11/1/2024,9,In-store,124,Beauty,4,81.29,0.39,Regular,North,198.35
+T1306,11/2/2024,9,In-store,109,Electronics,1,90.57,0.17,VIP,South,75.17
+T1307,11/3/2024,16,Online,145,Sports,2,432.78,0.38,Regular,South,536.65
+T1308,11/4/2024,13,In-store,108,Sports,10,247.45,0.18,New,North,2029.09
+T1309,11/5/2024,11,Online,113,Sports,9,335.15,0.30,VIP,East,2111.44
+T1310,11/6/2024,15,In-store,121,Home & Kitchen,5,239.39,0.18,New,South,981.50
+T1311,11/7/2024,4,In-store,112,Clothing,5,382.56,0.49,VIP,North,975.53
+T1312,11/8/2024,12,In-store,147,Home & Kitchen,3,210.35,0.26,VIP,East,466.98
+T1313,11/9/2024,18,In-store,116,Sports,2,343.07,0.30,New,North,480.30
+T1314,11/10/2024,12,In-store,129,Beauty,2,65.7,0.32,New,East,89.35
+T1315,11/11/2024,17,Online,106,Sports,3,146.6,0.39,Regular,South,268.28
+T1316,11/12/2024,14,Online,147,Electronics,2,284,0.16,VIP,West,477.12
+T1317,11/13/2024,20,In-store,126,Home & Kitchen,8,98.64,0.42,Regular,Central,457.69
+T1318,11/14/2024,12,In-store,103,Sports,6,347.6,0.23,New,Central,1605.91
+T1319,11/15/2024,11,Online,127,Beauty,10,198.52,0.38,New,Central,1230.82
+T1320,11/16/2024,2,Online,137,Electronics,7,86.14,0.09,Regular,North,548.71
+T1321,11/17/2024,17,Online,148,Beauty,3,460.3,0.04,VIP,Central,1325.66
+T1322,11/18/2024,13,In-store,131,Beauty,4,291.96,0.03,VIP,Central,566.40
+T1323,11/19/2024,10,Online,120,Electronics,10,484.66,0.25,Regular,Central,3634.95
+T1324,11/20/2024,12,Online,134,,10,103.42,0.35,VIP,West,672.23
+T1325,11/21/2024,14,Online,125,Clothing,7,366.94,0.40,VIP,West,1541.15
+T1326,11/22/2024,1,In-store,136,Sports,7,455.13,0.42,VIP,Central,1847.83
+T1327,11/23/2024,17,Online,105,Beauty,4,264.89,0.18,VIP,North,868.84
+T1328,11/24/2024,14,Online,114,,4,227.09,0.34,Regular,Central,599.52
+T1329,11/25/2024,18,In-store,147,Sports,8,319.5,0.45,Regular,North,1405.80
+T1330,11/26/2024,12,Online,143,Clothing,6,68.09,0.40,Regular,North,245.12
+T1331,11/27/2024,4,In-store,140,Sports,5,452.25,0.39,New,West,1379.36
+T1332,11/28/2024,7,Online,101,Electronics,2,354.37,0.42,Regular,South,411.07
+T1333,11/29/2024,16,Online,139,Electronics,6,102.16,0.33,Regular,South,410.68
+T1334,11/30/2024,17,Online,132,Beauty,9,434.23,0.22,New,West,3048.29
+T1335,12/1/2024,15,In-store,146,Beauty,2,281.57,0.21,New,East,444.88
+T1336,12/2/2024,10,In-store,136,Sports,10,458.23,0.06,VIP,East,4307.36
+T1337,12/3/2024,18,Online,109,Home & Kitchen,2,5.11,0.30,Regular,Central,7.15
+T1338,12/4/2024,19,Online,136,Clothing,5,30.61,0.05,New,North,145.40
+T1339,12/5/2024,11,In-store,125,Electronics,2,179.38,0.15,VIP,North,304.95
+T1340,12/6/2024,11,Online,139,Clothing,5,447.81,0.41,New,North,1321.04
+T1341,12/7/2024,12,Online,119,Sports,10,49.32,0.03,Regular,South,1035.66
+T1342,12/8/2024,13,In-store,146,Clothing,9,237.66,0.14,Regular,East,1839.49
+T1343,12/9/2024,7,In-store,127,Beauty,8,41.08,0.28,VIP,South,236.62
+T1344,12/10/2024,2,Online,147,Sports,9,94.52,0.48,New,East,442.35
+T1345,12/11/2024,20,In-store,103,Clothing,1,388.43,0.41,VIP,South,229.17
+T1346,12/12/2024,9,In-store,115,Home & Kitchen,4,417.6,0.23,VIP,North,1286.21
+T1347,12/13/2024,2,Online,111,Electronics,6,389.44,0.24,Regular,North,1775.85
+T1348,12/14/2024,6,Online,147,Electronics,6,422.74,0.01,Regular,East,2511.08
+T1349,12/15/2024,10,Online,129,Beauty,9,446.54,0.33,New,West,2692.64
+T1350,12/16/2024,11,In-store,138,Home & Kitchen,4,301.78,0.03,New,Central,1170.91
+T1351,12/17/2024,19,In-store,142,Home & Kitchen,1,161.54,0.27,New,East,117.92
+T1352,12/18/2024,9,In-store,139,Clothing,3,25.8,0.10,New,East,69.66
+T1353,12/19/2024,9,Online,105,Home & Kitchen,9,312.76,0.17,VIP,East,2336.32
+T1354,12/20/2024,13,Online,145,Electronics,7,362.83,0.28,Regular,Central,1828.66
+T1355,12/21/2024,13,In-store,107,Home & Kitchen,9,483.25,0.21,Regular,South,3435.91
+T1356,12/22/2024,13,Online,110,Beauty,10,209.43,0.30,VIP,North,1466.01
+T1357,12/23/2024,10,In-store,103,Sports,6,187.5,0.42,Regular,Central,652.50
+T1358,12/24/2024,3,In-store,117,Home & Kitchen,5,143.82,0.28,Regular,Central,517.75
+T1359,12/25/2024,20,Online,113,Clothing,3,36.66,0.23,Regular,South,84.68
+T1360,12/26/2024,14,In-store,139,Home & Kitchen,4,26.88,0.08,VIP,South,98.92
+T1361,12/27/2024,5,In-store,103,Home & Kitchen,8,134.8,0.14,VIP,East,927.42
+T1362,12/28/2024,17,In-store,117,Home & Kitchen,8,243.06,0.25,VIP,South,1458.36
+T1363,12/29/2024,4,Online,118,Electronics,7,386.95,0.12,Regular,North,2383.61
+T1364,12/30/2024,4,In-store,136,Sports,10,390.98,0.22,New,North,3049.64
+T1365,12/31/2024,10,In-store,147,Home & Kitchen,7,302.15,0.25,New,South,1586.29
+T1366,1/1/2025,12,Online,122,Home & Kitchen,10,418.2,0.19,New,South,3387.42
+T1367,1/2/2025,1,In-store,109,Sports,3,369.76,0.47,VIP,West,587.92
+T1368,1/3/2025,12,Online,116,Clothing,5,216.9,0.37,VIP,East,683.24
+T1369,1/4/2025,2,In-store,106,Home & Kitchen,8,387.84,0.38,VIP,North,1923.69
+T1370,1/5/2025,4,Online,112,Clothing,10,413.38,0.36,New,South,2645.63
+T1371,1/6/2025,19,Online,113,Home & Kitchen,3,338.75,0.22,Regular,Central,792.68
+T1372,1/7/2025,1,Online,108,Sports,4,206.39,0.14,New,West,1242.47
+T1373,1/8/2025,16,Online,107,Sports,2,287.76,0.25,Regular,East,431.64
+T1374,1/9/2025,11,In-store,104,Home & Kitchen,9,284.98,0.35,Regular,North,1667.13
+T1375,1/10/2025,6,In-store,141,Home & Kitchen,7,481.94,0.13,VIP,South,2935.01
+T1376,1/11/2025,9,In-store,128,Beauty,8,376.08,0.29,VIP,Central,2136.13
+T1377,1/12/2025,1,Online,125,Beauty,4,469.65,0.43,VIP,Central,1070.80
+T1378,1/13/2025,13,In-store,109,Home & Kitchen,5,59.38,0.03,VIP,West,287.99
+T1379,1/14/2025,10,In-store,147,Sports,8,319.01,0.27,VIP,South,1863.02
+T1380,1/15/2025,8,In-store,140,Clothing,9,171.45,0.07,VIP,East,1435.04
+T1381,1/16/2025,14,In-store,118,Sports,2,102.3,0.25,Regular,Central,153.45
+T1382,1/17/2025,2,Online,123,Clothing,7,97.6,0.35,Regular,West,444.08
+T1383,1/18/2025,7,In-store,118,Clothing,8,162.29,0.27,New,Central,947.77
+T1384,1/19/2025,2,In-store,148,Beauty,5,414.73,0.05,New,North,1969.97
+T1385,1/20/2025,2,Online,126,Clothing,10,319.16,0.42,VIP,West,1851.13
+T1386,1/21/2025,11,Online,127,Clothing,4,44.31,0.00,New,South,177.24
+T1387,1/22/2025,17,Online,149,Beauty,7,329.71,0.31,New,South,1592.50
+T1388,1/23/2025,1,Online,131,Electronics,9,267.21,0.08,New,South,2212.50
+T1389,1/24/2025,20,Online,111,Electronics,5,183.54,0.36,Regular,North,587.33
+T1390,1/25/2025,14,Online,109,Sports,2,282.33,0.43,New,North,321.86
+T1391,1/26/2025,13,In-store,129,Clothing,2,224.36,0.31,VIP,West,309.62
+T1392,1/27/2025,13,Online,133,Home & Kitchen,2,323.84,0.20,Regular,East,518.14
+T1393,1/28/2025,11,In-store,114,Home & Kitchen,7,273.37,0.23,New,West,1473.46
+T1394,1/29/2025,19,In-store,150,Beauty,10,185.01,0.03,Regular,Central,1794.60
+T1395,1/30/2025,5,In-store,139,Clothing,3,421.5,0.23,Regular,Central,973.67
+T1396,1/31/2025,15,In-store,109,Electronics,1,194.1,0.42,Regular,Central,112.58
+T1397,2/1/2025,11,In-store,103,,9,298.51,0.28,Regular,West,1934.34
+T1398,2/2/2025,8,In-store,101,,8,341.28,0.02,New,East,2675.64
+T1399,2/3/2025,14,Online,138,Clothing,5,221.8,0.19,VIP,North,898.29
+T1400,2/4/2025,8,Online,129,Sports,2,499.91,0.33,Regular,West,669.88
+T1401,2/5/2025,16,Online,116,Sports,3,255.42,0.49,VIP,North,390.79
+T1402,2/6/2025,9,In-store,104,Clothing,5,298.53,0.05,New,Central,1418.02
+T1403,2/7/2025,12,In-store,126,Beauty,1,122.24,0.25,VIP,North,91.68
+T1404,2/8/2025,12,Online,127,Beauty,8,316.9,0.25,VIP,East,1901.40
+T1405,2/9/2025,10,In-store,121,Clothing,7,27.91,0.15,New,South,166.06
+T1406,2/10/2025,14,In-store,138,Electronics,4,220.4,0.30,New,Central,617.12
+T1407,2/11/2025,15,Online,132,Electronics,6,335.72,0.39,Regular,East,1228.74
+T1408,2/12/2025,10,In-store,117,,7,36.66,0.07,New,Central,238.66
+T1409,2/13/2025,8,Online,122,Sports,3,112.5,0.32,VIP,South,229.50
+T1410,2/14/2025,12,Online,103,Home & Kitchen,3,130.96,0.17,Regular,Central,326.09
+T1411,2/15/2025,12,In-store,130,Beauty,1,148.49,0.24,VIP,South,112.85
+T1412,2/16/2025,1,Online,102,Beauty,8,131.46,0.47,Regular,Central,557.39
+T1413,2/17/2025,19,In-store,104,Sports,7,117.81,0.03,New,Central,799.93
+T1414,2/18/2025,6,Online,130,Beauty,9,336.22,0.10,VIP,East,2723.38
+T1415,2/19/2025,7,In-store,134,Home & Kitchen,8,28.19,0.42,Regular,Central,130.80
+T1416,2/20/2025,16,Online,116,Home & Kitchen,6,358.29,0.20,Regular,Central,1719.79
+T1417,2/21/2025,15,In-store,145,Electronics,9,14.09,0.30,VIP,West,88.77
+T1418,2/22/2025,3,Online,103,Home & Kitchen,4,436.52,0.30,New,Central,1222.26
+T1419,2/23/2025,13,Online,124,Electronics,8,402.1,0.20,VIP,East,2573.44
+T1420,2/24/2025,12,In-store,117,Electronics,2,236.8,0.14,Regular,South,407.30
+T1421,2/25/2025,19,In-store,128,Sports,10,188.27,0.05,New,North,1788.57
+T1422,2/26/2025,13,Online,118,Beauty,10,165.18,0.08,New,East,1519.66
+T1423,2/27/2025,18,Online,129,Beauty,2,372.47,0.23,New,North,573.60
+T1424,2/28/2025,19,Online,131,Electronics,2,39.81,0.15,VIP,East,67.68
+T1425,3/1/2025,14,Online,138,Beauty,7,358.19,0.15,New,North,2131.23
+T1426,3/2/2025,4,In-store,115,Clothing,1,104.93,0.34,VIP,East,69.25
+T1427,3/3/2025,5,Online,148,Beauty,1,196.83,0.30,New,Central,137.78
+T1428,3/4/2025,17,Online,135,Clothing,2,121.61,0.21,Regular,Central,192.14
+T1429,3/5/2025,9,In-store,125,Sports,8,459.31,0.23,VIP,North,2829.35
+T1430,3/6/2025,1,In-store,133,Beauty,4,380.05,0.22,VIP,East,1185.76
+T1431,3/7/2025,13,Online,140,Sports,7,96.49,0.29,New,Central,479.56
+T1432,3/8/2025,3,In-store,122,Electronics,3,462.98,0.33,New,North,930.59
+T1433,3/9/2025,6,Online,116,Electronics,6,244.78,0.23,New,North,1130.88
+T1434,3/10/2025,12,Online,113,Electronics,7,421.71,0.49,New,West,1505.50
+T1435,3/11/2025,8,Online,139,Clothing,5,465.26,0.17,Regular,North,1930.83
+T1436,3/12/2025,16,Online,117,Electronics,1,397.28,0.10,New,South,357.55
+T1437,3/13/2025,20,Online,107,Clothing,3,191.9,0.15,VIP,East,489.35
+T1438,3/14/2025,16,Online,115,Electronics,7,348.95,0.07,Regular,North,2271.66
+T1439,3/15/2025,20,In-store,114,,7,151.13,0.23,Regular,West,814.59
+T1440,3/16/2025,20,Online,126,Home & Kitchen,4,401.1,0.16,VIP,West,1347.70
+T1441,3/17/2025,19,In-store,120,Sports,1,56.8,0.47,New,South,30.10
+T1442,3/18/2025,8,Online,101,Clothing,5,493.99,0.42,Regular,South,1432.57
+T1443,3/19/2025,16,Online,111,Electronics,3,317.62,0.34,VIP,South,628.89
+T1444,3/20/2025,4,Online,141,Sports,9,272.06,0.12,Regular,North,2154.72
+T1445,3/21/2025,14,Online,133,Electronics,1,433.01,0.06,VIP,North,407.03
+T1446,3/22/2025,9,Online,142,Beauty,3,214.12,0.22,Regular,East,501.04
+T1447,3/23/2025,11,Online,113,Electronics,4,495.41,0.06,Regular,North,4656.85
+T1448,3/24/2025,16,Online,148,Electronics,4,377.15,0.21,New,East,1191.79
+T1449,3/25/2025,1,In-store,133,Home & Kitchen,10,59.36,0.13,New,East,516.43
+T1450,3/26/2025,3,Online,115,Beauty,8,206.88,0.30,New,East,1158.53
+T1451,3/27/2025,13,Online,114,Clothing,7,59.03,0.05,New,South,392.55
+T1452,3/28/2025,18,In-store,117,Home & Kitchen,7,45.51,0.27,VIP,West,232.56
+T1453,3/29/2025,16,Online,127,Sports,9,130.82,0.10,VIP,North,1059.64
+T1454,3/30/2025,13,Online,137,Electronics,1,104,0.12,New,West,91.52
+T1455,3/31/2025,12,In-store,143,Beauty,5,457.31,0.22,Regular,Central,1783.51
+T1456,4/1/2025,1,Online,116,Electronics,7,26.5,0.11,VIP,Central,165.09
+T1457,4/2/2025,10,In-store,145,Electronics,7,282.8,0.28,New,West,1425.31
+T1458,4/3/2025,15,In-store,125,Electronics,10,129.34,0.22,New,South,1008.85
+T1459,4/4/2025,15,Online,134,Home & Kitchen,4,182.74,0.28,VIP,North,526.29
+T1460,4/5/2025,10,In-store,101,Beauty,2,167.85,0.12,VIP,South,295.42
+T1461,4/6/2025,17,In-store,138,Electronics,5,401.97,0.49,Regular,South,1025.02
+T1462,4/7/2025,13,Online,128,Electronics,8,52.52,0.38,New,South,1016.41
+T1463,4/8/2025,20,Online,141,Home & Kitchen,8,402.98,0.09,Regular,East,2933.69
+T1464,4/9/2025,5,In-store,136,,1,404.47,0.43,Regular,East,230.55
+T1465,4/10/2025,19,Online,132,Sports,9,325.43,0.25,Regular,North,2196.65
+T1466,4/11/2025,18,Online,130,Beauty,9,71.62,0.35,VIP,Central,418.98
+T1467,4/12/2025,16,Online,127,Electronics,1,126.07,0.38,Regular,East,78.16
+T1468,4/13/2025,10,In-store,115,Electronics,7,106.84,0.26,VIP,West,553.43
+T1469,4/14/2025,20,Online,135,Sports,2,126.03,0.40,Regular,Central,151.24
+T1470,4/15/2025,17,Online,103,,2,20.21,0.11,Regular,Central,35.97
+T1471,4/16/2025,4,In-store,139,Electronics,9,281.36,0.32,Regular,North,1721.92
+T1472,4/17/2025,13,Online,134,Electronics,10,476.38,0.14,New,North,4096.87
+T1473,4/18/2025,15,Online,114,Home & Kitchen,1,111.19,0.47,New,North,58.93
+T1474,4/19/2025,3,Online,149,Clothing,4,210.52,0.16,New,South,707.35
+T1475,4/20/2025,7,In-store,126,Sports,8,261.14,0.46,New,North,1128.12
+T1476,4/21/2025,7,Online,106,Clothing,5,363.65,0.40,Regular,Central,1090.95
+T1477,4/22/2025,9,In-store,103,Home & Kitchen,3,6.54,0.22,New,North,15.30
+T1478,4/23/2025,17,Online,124,Sports,9,451.52,0.43,New,North,2316.30
+T1479,4/24/2025,11,Online,130,,4,69.89,0.28,VIP,East,201.28
+T1480,4/25/2025,15,Online,149,Electronics,4,306.02,0.26,Regular,North,905.82
+T1481,4/26/2025,5,Online,112,Beauty,8,148.42,0.36,New,South,759.91
+T1482,4/27/2025,7,Online,108,Electronics,10,27.48,0.05,VIP,North,261.06
+T1483,4/28/2025,20,In-store,126,Electronics,3,86.16,0.23,Regular,Central,199.03
+T1484,4/29/2025,3,In-store,125,Electronics,7,49.73,0.20,Regular,East,278.49
+T1485,4/30/2025,4,In-store,149,Sports,6,52.67,0.22,VIP,Central,246.50
+T1486,5/1/2025,3,In-store,131,Electronics,2,129.3,0.37,VIP,North,162.92
+T1487,5/2/2025,1,Online,135,Home & Kitchen,6,412.5,0.02,Regular,West,2425.50
+T1488,5/3/2025,18,In-store,148,Home & Kitchen,6,260.66,0.07,VIP,North,1454.48
+T1489,5/4/2025,2,Online,126,Clothing,3,352.48,0.21,VIP,South,835.38
+T1490,5/5/2025,2,Online,102,Beauty,4,55.37,0.43,New,South,126.24
+T1491,5/6/2025,2,Online,137,Sports,1,21.63,0.04,Regular,Central,20.76
+T1492,5/7/2025,11,Online,143,Sports,8,233.96,0.38,Regular,South,1160.44
+T1493,5/8/2025,11,In-store,125,Beauty,2,392.2,0.37,Regular,East,1015.08
+T1494,5/9/2025,12,Online,131,Clothing,5,250.19,0.17,Regular,East,1038.29
+T1495,5/10/2025,14,Online,123,Sports,1,127.97,0.20,Regular,East,102.38
+T1496,5/11/2025,6,Online,124,Electronics,2,377.23,0.02,Regular,East,739.37
+T1497,5/12/2025,5,Online,115,Electronics,7,307.53,0.49,Regular,East,1097.88
+T1498,5/13/2025,18,Online,101,Sports,9,207.34,0.02,New,North,1828.74
+T1499,5/14/2025,17,Online,150,Clothing,6,383.54,0.29,New,Central,1633.88
+T1500,5/15/2025,6,In-store,106,Beauty,6,172.28,0.30,Regular,East,723.58
+T1501,5/16/2025,20,In-store,132,Sports,3,207.18,0.23,VIP,Central,478.59
+T1502,5/17/2025,6,In-store,104,Electronics,7,29.21,0.45,VIP,East,112.46
+T1503,5/18/2025,5,Online,119,Beauty,10,173.55,0.13,Regular,East,1509.88
+T1504,5/19/2025,17,Online,113,Beauty,10,416.86,0.31,VIP,South,2876.33
+T1505,5/20/2025,2,Online,139,Home & Kitchen,8,71.13,0.24,Regular,South,432.47
+T1506,5/21/2025,19,In-store,133,Beauty,5,73.29,0.28,VIP,Central,263.84
+T1507,5/22/2025,15,In-store,144,Beauty,10,222.37,0.32,VIP,East,1512.12
+T1508,5/23/2025,8,In-store,107,Electronics,9,80.37,0.03,Regular,East,701.63
+T1509,5/24/2025,3,In-store,150,Beauty,9,158.81,0.40,New,North,857.57
+T1510,5/25/2025,13,Online,120,Beauty,4,240.81,0.31,VIP,East,664.64
+T1511,5/26/2025,1,In-store,103,Sports,8,34.03,0.50,Regular,North,136.12
+T1512,5/27/2025,18,Online,108,Home & Kitchen,5,15,0.29,Regular,East,53.25
+T1513,5/28/2025,9,In-store,128,Home & Kitchen,9,416.98,0.05,New,East,3565.18
+T1514,5/29/2025,9,In-store,103,Electronics,8,58.39,0.43,Regular,South,266.26
+T1515,5/30/2025,19,Online,135,Home & Kitchen,6,63.46,0.18,Regular,East,1022.53
+T1516,5/31/2025,10,In-store,147,,3,22.29,0.03,New,West,64.86
+T1517,6/1/2025,3,Online,116,Clothing,5,338.86,0.40,New,Central,1016.58
+T1518,6/2/2025,11,In-store,139,Clothing,10,291.23,0.14,VIP,West,2504.58
+T1519,6/3/2025,1,Online,119,Home & Kitchen,9,181.14,0.44,VIP,West,912.95
+T1520,6/4/2025,16,In-store,132,Beauty,2,268.96,0.35,Regular,East,349.65
+T1521,6/5/2025,1,Online,112,Electronics,3,259.08,0.39,Regular,East,474.12
+T1522,6/6/2025,10,In-store,145,Home & Kitchen,7,137.81,0.37,VIP,Central,607.74
+T1523,6/7/2025,19,Online,147,Sports,10,322.14,0.12,VIP,Central,2834.83
+T1524,6/8/2025,3,In-store,143,Electronics,10,304.86,0.11,VIP,South,2713.25
+T1525,6/9/2025,13,In-store,126,Home & Kitchen,6,174.63,0.18,VIP,East,859.18
+T1526,6/10/2025,18,Online,105,Sports,10,421.51,0.31,New,East,2908.42
+T1527,6/11/2025,3,Online,126,Home & Kitchen,1,390.03,0.34,VIP,South,257.42
+T1528,6/12/2025,19,Online,103,Beauty,3,418.9,0.25,New,West,942.52
+T1529,6/13/2025,16,In-store,111,Electronics,4,159.06,0.19,Regular,South,515.35
+T1530,6/14/2025,15,In-store,133,Home & Kitchen,10,312.67,0.15,VIP,South,2657.70
+T1531,6/15/2025,12,In-store,147,Home & Kitchen,4,110.09,0.26,VIP,East,325.87
+T1532,6/16/2025,8,In-store,123,Beauty,10,150.36,0.43,New,North,857.05
+T1533,6/17/2025,10,In-store,141,Clothing,8,186.07,0.01,Regular,West,1473.67
+T1534,6/18/2025,9,Online,120,Home & Kitchen,5,31.24,0.48,Regular,Central,81.22
+T1535,6/19/2025,13,In-store,145,Electronics,8,370.87,0.02,Regular,South,2907.62
+T1536,6/20/2025,14,Online,102,Electronics,1,46.83,0.50,Regular,West,23.41
+T1537,6/21/2025,14,Online,141,Sports,7,244.09,0.22,VIP,South,1332.73
+T1538,6/22/2025,11,Online,117,Sports,4,60.11,0.22,Regular,West,187.54
+T1539,6/23/2025,12,In-store,127,Beauty,4,157.03,0.46,New,Central,339.18
+T1540,6/24/2025,19,In-store,114,Home & Kitchen,2,424.85,0.46,Regular,South,458.84
+T1541,6/25/2025,8,Online,120,,6,119.69,0.02,Regular,West,703.78
+T1542,6/26/2025,11,In-store,131,Electronics,1,20.56,0.02,VIP,East,20.15
+T1543,6/27/2025,18,Online,129,,7,408.15,0.09,VIP,West,2599.92
+T1544,6/28/2025,1,Online,130,Sports,8,287.1,0.23,New,North,1768.54
+T1545,6/29/2025,13,Online,148,Home & Kitchen,9,375.03,0.06,Regular,West,3172.75
+T1546,6/30/2025,18,In-store,110,Clothing,7,301.48,0.44,Regular,South,1181.80
+T1547,7/1/2025,8,In-store,135,Home & Kitchen,10,44.48,0.44,VIP,Central,249.09
+T1548,7/2/2025,19,Online,130,Sports,9,492.24,0.41,Regular,North,2613.79
+T1549,7/3/2025,10,In-store,131,Home & Kitchen,8,119.73,0.32,New,East,651.33
+T1550,7/4/2025,10,Online,132,,4,457.45,0.42,VIP,North,1061.28
+T1551,7/5/2025,9,In-store,119,Home & Kitchen,1,114.2,0.32,New,East,77.66
+T1552,7/6/2025,8,Online,135,Sports,3,419.97,0.24,Regular,North,957.53
+T1553,7/7/2025,15,In-store,106,Electronics,7,392.66,0.19,New,East,2226.38
+T1554,7/8/2025,6,In-store,108,Home & Kitchen,2,115.66,0.40,VIP,Central,138.79
+T1555,7/9/2025,2,Online,145,Home & Kitchen,2,404.16,0.18,VIP,South,662.82
+T1556,7/10/2025,16,Online,102,Sports,6,56.11,0.30,New,South,235.66
+T1557,7/11/2025,5,In-store,122,Clothing,9,355.3,0.01,VIP,Central,3165.72
+T1558,7/12/2025,10,In-store,135,Clothing,6,135.01,0.09,Regular,West,737.15
+T1559,7/13/2025,16,Online,102,Clothing,8,71.96,0.19,VIP,West,466.30
+T1560,7/14/2025,15,In-store,115,Sports,3,241.07,0.47,Regular,West,383.30
+T1561,7/15/2025,9,Online,141,Clothing,4,332.91,0.50,Regular,Central,665.82
+T1562,7/16/2025,10,In-store,149,Sports,7,496.49,0.23,New,North,2676.08
+T1563,7/17/2025,5,In-store,119,,8,428.57,0.29,VIP,North,2434.28
+T1564,7/18/2025,1,Online,113,Electronics,4,61.75,0.39,New,West,150.67
+T1565,7/19/2025,4,Online,105,Home & Kitchen,8,76.17,0.21,Regular,Central,481.39
+T1566,7/20/2025,11,In-store,107,Sports,6,121.98,0.31,New,Central,505.00
+T1567,7/21/2025,10,Online,112,Home & Kitchen,4,414.52,0.41,New,East,978.27
+T1568,7/22/2025,20,In-store,137,Clothing,9,23.63,0.38,Regular,South,131.86
+T1569,7/23/2025,13,In-store,118,Beauty,10,21.85,0.33,VIP,North,146.39
+T1570,7/24/2025,10,Online,108,Beauty,1,388.03,0.04,VIP,West,372.51
+T1571,7/25/2025,14,In-store,128,Beauty,5,490.62,0.36,Regular,East,1569.98
+T1572,7/26/2025,6,Online,102,Sports,10,191.42,0.34,Regular,West,1263.37
+T1573,7/27/2025,13,In-store,130,Clothing,5,92.27,0.31,Regular,North,318.33
+T1574,7/28/2025,13,In-store,132,Clothing,1,241.91,0.02,Regular,South,237.07
+T1575,7/29/2025,7,Online,144,Sports,7,413.61,0.02,Regular,South,2837.36
+T1576,7/30/2025,3,Online,141,,9,209.64,0.40,Regular,East,1132.06
+T1577,7/31/2025,20,Online,127,Home & Kitchen,7,416.31,0.05,VIP,Central,2768.46
+T1578,8/1/2025,8,In-store,104,Clothing,4,111.35,0.12,New,Central,391.95
+T1579,8/2/2025,4,In-store,129,Sports,4,309.31,0.18,Regular,East,1775.44
+T1580,8/3/2025,17,Online,132,Electronics,4,368.07,0.43,VIP,South,839.20
+T1581,8/4/2025,10,In-store,135,Home & Kitchen,3,434.23,0.43,Regular,Central,742.53
+T1582,8/5/2025,5,In-store,137,Beauty,10,96.68,0.33,New,South,647.76
+T1583,8/6/2025,10,In-store,143,Electronics,6,179.63,0.07,VIP,North,1002.34
+T1584,8/7/2025,16,In-store,129,Beauty,2,318.77,0.40,Regular,South,382.52
+T1585,8/8/2025,3,Online,135,Sports,2,315.59,0.05,Regular,West,599.62
+T1586,8/9/2025,9,In-store,124,Beauty,5,295.88,0.24,New,North,1124.34
+T1587,8/10/2025,14,Online,140,,8,496.68,0.38,VIP,East,2463.53
+T1588,8/11/2025,8,Online,120,Electronics,9,413.76,0.07,VIP,East,3463.17
+T1589,8/12/2025,19,In-store,126,Beauty,1,183.15,0.18,VIP,West,150.18
+T1590,8/13/2025,9,Online,132,Home & Kitchen,5,159.48,0.19,New,Central,645.89
+T1591,8/14/2025,9,Online,137,Beauty,4,306.01,0.06,VIP,Central,1150.60
+T1592,8/15/2025,13,Online,105,Clothing,1,359.1,0.19,VIP,East,290.87
+T1593,8/16/2025,8,In-store,145,Clothing,2,478.43,0.08,New,South,880.31
+T1594,8/17/2025,6,In-store,130,Electronics,10,172.04,0.04,VIP,East,1651.58
+T1595,8/18/2025,12,Online,144,Beauty,8,158.19,0.40,New,South,759.31
+T1596,8/19/2025,13,In-store,128,,3,286.07,0.16,New,South,720.90
+T1597,8/20/2025,17,Online,143,Beauty,5,123.09,0.12,Regular,South,541.60
+T1598,8/21/2025,17,In-store,125,Electronics,10,84.37,0.15,Regular,East,717.14
+T1599,8/22/2025,5,Online,140,Clothing,6,412.9,0.14,New,West,2130.56
+T1600,8/23/2025,9,Online,147,Clothing,9,74.62,0.27,VIP,North,490.25
+T1601,8/24/2025,14,Online,146,Clothing,4,101.49,0.23,New,Central,312.59
+T1602,8/25/2025,11,In-store,125,Electronics,3,29.55,0.26,Regular,South,65.60
+T1603,8/26/2025,7,In-store,126,Beauty,9,142.97,0.10,New,West,1158.06
+T1604,8/27/2025,12,Online,108,,9,435.01,0.46,VIP,West,2114.15
+T1605,8/28/2025,10,Online,138,Clothing,4,125.09,0.41,Regular,South,295.21
+T1606,8/29/2025,7,Online,109,Home & Kitchen,9,62.67,0.01,New,Central,558.39
+T1607,8/30/2025,18,In-store,124,Home & Kitchen,4,158.77,0.22,VIP,North,495.36
+T1608,8/31/2025,7,In-store,102,Beauty,2,268.73,0.48,Regular,West,279.48
+T1609,9/1/2025,15,Online,150,Home & Kitchen,10,146.44,0.25,New,East,1098.30
+T1610,9/2/2025,2,Online,110,Electronics,7,190.54,0.35,New,Central,866.96
+T1611,9/3/2025,1,In-store,125,Beauty,3,342.77,0.48,Regular,Central,534.72
+T1612,9/4/2025,3,Online,132,Home & Kitchen,9,97.32,0.15,New,East,744.50
+T1613,9/5/2025,5,In-store,112,Home & Kitchen,9,211.52,0.41,Regular,West,1123.17
+T1614,9/6/2025,10,In-store,127,Sports,5,268.27,0.28,New,Central,965.77
+T1615,9/7/2025,5,In-store,109,Clothing,4,393.73,0.32,VIP,West,1070.95
+T1616,9/8/2025,17,Online,145,Home & Kitchen,3,34.46,0.16,New,Central,86.84
+T1617,9/9/2025,2,In-store,118,Electronics,4,59.91,0.14,Regular,North,206.09
+T1618,9/10/2025,2,In-store,128,Electronics,9,439.19,0.12,Regular,West,3478.38
+T1619,9/11/2025,1,Online,101,Beauty,1,363.34,0.17,VIP,West,301.57
+T1620,9/12/2025,16,In-store,138,,7,34.15,0.45,Regular,South,131.48
+T1621,9/13/2025,10,Online,139,Home & Kitchen,2,322.93,0.19,VIP,North,523.15
+T1622,9/14/2025,19,Online,130,Clothing,10,332.31,0.12,New,East,2924.33
+T1623,9/15/2025,5,Online,146,Sports,2,322.79,0.24,New,West,490.64
+T1624,9/16/2025,13,In-store,141,Clothing,9,125.28,0.33,VIP,South,755.44
+T1625,9/17/2025,2,Online,131,Beauty,3,9.81,0.05,Regular,South,27.96
+T1626,9/18/2025,17,In-store,118,Electronics,9,118.85,0.16,Regular,Central,898.51
+T1627,9/19/2025,16,In-store,117,Clothing,4,280.69,0.10,Regular,East,1010.48
+T1628,9/20/2025,12,In-store,139,Electronics,2,218.65,0.35,Regular,West,284.25
+T1629,9/21/2025,13,Online,136,,9,69.23,0.08,New,South,573.22
+T1630,9/22/2025,11,In-store,110,Beauty,1,267.84,0.08,VIP,North,246.41
+T1631,9/23/2025,20,Online,120,Beauty,3,364.52,0.06,New,Central,1027.95
+T1632,9/24/2025,14,Online,144,Home & Kitchen,5,240.14,0.45,New,North,660.38
+T1633,9/25/2025,14,Online,105,Sports,7,241.77,0.26,New,West,1252.37
+T1634,9/26/2025,5,In-store,134,Clothing,2,237.26,0.23,New,West,365.38
+T1635,9/27/2025,11,In-store,115,Sports,7,268.3,0.16,VIP,North,1577.60
+T1636,9/28/2025,17,In-store,132,Home & Kitchen,5,460.49,0.39,Regular,East,1404.49
+T1637,9/29/2025,13,Online,120,Beauty,10,339.6,0.27,VIP,East,2479.08
+T1638,9/30/2025,8,In-store,102,Home & Kitchen,3,117.41,0.13,VIP,Central,306.44
+T1639,10/1/2025,11,Online,107,Electronics,6,272.68,0.11,Regular,Central,1456.11
+T1640,10/2/2025,2,In-store,108,Electronics,8,15.59,0.23,Regular,West,96.03
+T1641,10/3/2025,5,In-store,132,Clothing,5,56.4,0.08,VIP,East,259.44
+T1642,10/4/2025,10,Online,129,Home & Kitchen,6,144.39,0.24,Regular,West,658.42
+T1643,10/5/2025,15,Online,105,Home & Kitchen,2,44.92,0.04,New,West,86.25
+T1644,10/6/2025,10,In-store,121,Clothing,9,143.7,0.31,Regular,South,892.38
+T1645,10/7/2025,9,In-store,126,Home & Kitchen,2,407.07,0.20,Regular,South,651.31
+T1646,10/8/2025,6,Online,117,Clothing,2,8.34,0.44,VIP,South,9.34
+T1647,10/9/2025,3,Online,129,Sports,4,115.97,0.42,VIP,Central,269.05
+T1648,10/10/2025,1,Online,130,Beauty,1,496.81,0.28,New,Central,357.70
+T1649,10/11/2025,14,In-store,145,Beauty,9,132.25,0.14,VIP,North,1023.62
+T1650,10/12/2025,3,In-store,129,Electronics,4,404.87,0.14,Regular,East,2785.51
+T1651,10/13/2025,2,Online,145,,10,473.29,0.27,Regular,North,1026.89
+T1652,10/14/2025,13,Online,133,Sports,2,427.18,0.01,Regular,North,845.82
+T1653,10/15/2025,15,In-store,124,Beauty,8,84.79,0.18,Regular,Central,556.22
+T1654,10/16/2025,18,Online,132,Home & Kitchen,10,424.29,0.41,VIP,East,2503.31
+T1655,10/17/2025,16,In-store,104,Sports,3,215.07,0.02,New,Central,632.31
+T1656,10/18/2025,6,Online,112,Home & Kitchen,9,331.63,0.27,New,West,2178.81
+T1657,10/19/2025,9,Online,129,Beauty,1,295.66,0.03,VIP,North,286.79
+T1658,10/20/2025,6,Online,116,Sports,6,377.16,0.49,Regular,Central,1154.11
+T1659,10/21/2025,10,In-store,115,Sports,4,457.93,0.37,VIP,West,1153.98
+T1660,10/22/2025,1,Online,123,Home & Kitchen,8,404.87,0.42,New,Central,1878.60
+T1661,10/23/2025,11,In-store,150,Electronics,4,401.62,0.09,New,South,1461.90
+T1662,10/24/2025,10,Online,134,Electronics,2,237.59,0.41,Regular,North,280.36
+T1663,10/25/2025,5,Online,133,Clothing,10,467.19,0.32,Regular,North,3176.89
+T1664,10/26/2025,3,Online,142,Sports,3,106.54,0.29,Regular,Central,226.93
+T1665,10/27/2025,6,In-store,113,Beauty,2,438.45,0.34,New,West,578.75
+T1666,10/28/2025,13,In-store,118,Sports,4,469.84,0.20,New,East,1503.49
+T1667,10/29/2025,3,Online,147,Home & Kitchen,4,140.64,0.39,Regular,West,343.16
+T1668,10/30/2025,3,In-store,148,Sports,4,368.16,0.17,Regular,East,1222.29
+T1669,10/31/2025,12,In-store,119,Beauty,4,192.62,0.44,New,South,431.47
+T1670,11/1/2025,6,In-store,103,Electronics,8,387.67,0.43,VIP,North,1767.78
+T1671,11/2/2025,7,In-store,135,Clothing,3,442.27,0.09,Regular,Central,1207.40
+T1672,11/3/2025,14,In-store,112,Sports,2,41.13,0.02,Regular,Central,80.61
+T1673,11/4/2025,9,Online,138,Clothing,3,298.08,0.08,Regular,East,822.70
+T1674,11/5/2025,5,In-store,144,Beauty,5,491.75,0.32,VIP,East,1029.28
+T1675,11/6/2025,20,Online,110,Electronics,6,53.04,0.06,VIP,Central,299.15
+T1676,11/7/2025,11,Online,142,Beauty,9,283.28,0.00,New,West,2549.52
+T1677,11/8/2025,17,Online,150,Home & Kitchen,6,235.87,0.38,New,East,877.44
+T1678,11/9/2025,12,In-store,136,Clothing,1,383.21,0.50,New,East,191.60
+T1679,11/10/2025,17,Online,110,Sports,4,396.18,0.43,Regular,South,903.29
+T1680,11/11/2025,16,Online,102,Clothing,10,484,0.31,VIP,East,3339.60
+T1681,11/12/2025,13,In-store,129,Beauty,4,348.57,0.32,New,Central,948.11
+T1682,11/13/2025,1,In-store,118,Clothing,8,494.35,0.15,Regular,South,3361.58
+T1683,11/14/2025,3,Online,126,Electronics,4,480.84,0.49,Regular,Central,980.91
+T1684,11/15/2025,20,Online,121,Sports,2,265.88,0.45,Regular,South,292.47
+T1685,11/16/2025,18,Online,142,Beauty,2,159.43,0.17,New,South,264.65
+T1686,11/17/2025,3,In-store,139,Clothing,9,244.25,0.07,New,South,2044.37
+T1687,11/18/2025,9,In-store,144,Home & Kitchen,9,390.63,0.34,Regular,North,2320.34
+T1688,11/19/2025,2,In-store,107,Sports,6,96.66,0.30,New,Central,405.97
+T1689,11/20/2025,9,Online,132,Beauty,8,84.51,0.29,VIP,West,480.02
+T1690,11/21/2025,7,Online,140,Electronics,4,74.31,0.15,VIP,East,252.65
+T1691,11/22/2025,8,In-store,105,Beauty,4,20.53,0.21,VIP,South,64.87
+T1692,11/23/2025,3,Online,126,Sports,4,392.64,0.31,New,North,1083.69
+T1693,11/24/2025,15,In-store,111,Home & Kitchen,9,284.72,0.29,New,North,1819.36
+T1694,11/25/2025,5,Online,118,Clothing,2,351.8,0.27,VIP,East,513.63
+T1695,11/26/2025,14,Online,109,Beauty,3,139.86,0.17,Regular,West,348.25
+T1696,11/27/2025,11,Online,103,Clothing,9,202.48,0.32,Regular,West,1239.18
+T1697,11/28/2025,15,Online,149,Clothing,10,337.82,0.44,Regular,Central,1891.79
+T1698,11/29/2025,16,In-store,149,Beauty,10,135.95,0.06,Regular,North,1277.93
+T1699,11/30/2025,10,In-store,150,Beauty,2,195.57,0.49,New,South,199.48
+T1700,12/1/2025,1,In-store,133,Beauty,7,226.68,0.13,VIP,East,1380.48
+T1701,12/2/2025,12,Online,108,Clothing,6,172.74,0.45,Regular,North,570.04
+T1702,12/3/2025,9,In-store,103,Home & Kitchen,9,416.7,0.19,New,North,3037.74
+T1703,12/4/2025,1,In-store,135,Electronics,8,269.59,0.31,Regular,North,1488.14
+T1704,12/5/2025,6,In-store,133,Electronics,10,132.18,0.23,VIP,Central,1017.79
+T1705,12/6/2025,5,In-store,149,,4,274.52,0.25,Regular,South,1235.34
+T1706,12/7/2025,14,In-store,114,Home & Kitchen,2,221.15,0.33,VIP,Central,296.34
+T1707,12/8/2025,12,Online,138,Home & Kitchen,6,93.67,0.15,Regular,South,1021.56
+T1708,12/9/2025,10,Online,136,Sports,1,5.99,0.31,New,Central,4.13
+T1709,12/10/2025,18,In-store,130,Sports,1,355.76,0.02,VIP,Central,348.64
+T1710,12/11/2025,11,In-store,102,Clothing,2,232.31,0.21,VIP,South,367.05
+T1711,12/12/2025,18,Online,132,Clothing,8,18.31,0.06,Regular,West,137.69
+T1712,12/13/2025,10,Online,148,Beauty,8,102.33,0.00,VIP,East,818.64
+T1713,12/14/2025,4,Online,124,Electronics,6,172.09,0.23,New,Central,795.06
+T1714,12/15/2025,2,Online,116,Home & Kitchen,3,9.75,0.40,VIP,South,17.55
+T1715,12/16/2025,19,In-store,141,Beauty,6,456.5,0.16,VIP,South,2300.76
+T1716,12/17/2025,18,Online,126,Electronics,9,156.1,0.30,New,East,983.43
+T1717,12/18/2025,1,In-store,130,Clothing,3,241.42,0.27,VIP,East,528.71
+T1718,12/19/2025,1,In-store,101,Sports,7,26.22,0.25,Regular,Central,137.66
+T1719,12/20/2025,10,In-store,103,Clothing,9,35.96,0.22,VIP,West,252.44
+T1720,12/21/2025,12,In-store,123,Electronics,10,442.91,0.38,Regular,East,2746.04
+T1721,12/22/2025,3,In-store,133,Sports,7,409.33,0.31,Regular,West,1977.06
+T1722,12/23/2025,7,Online,110,Clothing,7,225.35,0.38,VIP,South,978.02
+T1723,12/24/2025,18,In-store,128,Electronics,8,210.86,0.24,VIP,South,1282.03
+T1724,12/25/2025,6,In-store,137,Clothing,10,63.87,0.40,Regular,North,383.22
+T1725,12/26/2025,20,Online,140,Beauty,4,46.39,0.14,VIP,Central,159.58
+T1726,12/27/2025,11,In-store,129,Beauty,7,19.9,0.29,Regular,North,98.90
+T1727,12/28/2025,4,Online,127,Clothing,3,14.38,0.29,Regular,North,30.63
+T1728,12/29/2025,8,In-store,128,Clothing,5,197.97,0.18,VIP,South,811.68
+T1729,12/30/2025,19,Online,133,Electronics,4,418.95,0.29,New,West,1189.82
+T1730,12/31/2025,3,In-store,145,Beauty,5,221.31,0.20,Regular,Central,885.24
+T1731,1/1/2026,5,In-store,140,Clothing,2,40.01,0.06,New,South,75.22
+T1732,1/2/2026,4,In-store,144,Home & Kitchen,2,340.66,0.37,New,East,429.23
+T1733,1/3/2026,10,Online,134,Home & Kitchen,5,349.86,0.08,VIP,North,1609.36
+T1734,1/4/2026,18,Online,129,Home & Kitchen,4,434,0.34,New,West,1145.76
+T1735,1/5/2026,20,Online,115,Home & Kitchen,6,109.98,0.02,Regular,East,646.68
+T1736,1/6/2026,6,In-store,122,Beauty,5,429.68,0.09,New,South,1955.04
+T1737,1/7/2026,1,Online,117,Clothing,9,232.43,0.45,Regular,East,1150.53
+T1738,1/8/2026,9,In-store,148,,2,457.25,0.03,VIP,East,887.06
+T1739,1/9/2026,18,Online,106,Beauty,1,426.38,0.14,VIP,South,366.69
+T1740,1/10/2026,20,Online,127,Electronics,4,106.48,0.02,New,Central,939.15
+T1741,1/11/2026,15,Online,119,Electronics,5,300.76,0.16,VIP,West,1263.19
+T1742,1/12/2026,12,In-store,141,Beauty,9,155.35,0.25,Regular,East,1048.61
+T1743,1/13/2026,9,In-store,140,Clothing,7,66.55,0.36,Regular,East,298.14
+T1744,1/14/2026,3,Online,128,Beauty,10,112.62,0.16,New,West,946.01
+T1745,1/15/2026,7,Online,106,Sports,4,167.41,0.25,VIP,West,502.23
+T1746,1/16/2026,19,In-store,128,Home & Kitchen,7,461.8,0.02,VIP,Central,3167.95
+T1747,1/17/2026,10,Online,126,Sports,6,6.96,0.36,New,West,26.73
+T1748,1/18/2026,20,Online,119,Beauty,2,449.74,0.42,VIP,West,521.70
+T1749,1/19/2026,11,Online,117,Home & Kitchen,4,289.18,0.14,VIP,Central,994.78
+T1750,1/20/2026,11,In-store,142,Sports,2,428.62,0.26,New,West,634.36
+T1751,1/21/2026,7,Online,142,Clothing,10,282.77,0.12,Regular,Central,2488.38
+T1752,1/22/2026,4,Online,142,Clothing,3,297.69,0.18,New,Central,732.32
+T1753,1/23/2026,13,Online,148,Sports,10,35.43,0.33,VIP,Central,237.38
+T1754,1/24/2026,15,In-store,150,Clothing,7,146.76,0.47,New,West,544.48
+T1755,1/25/2026,1,In-store,137,Beauty,7,237.57,0.35,New,West,1080.94
+T1756,1/26/2026,14,In-store,111,Beauty,7,33.89,0.11,Regular,East,211.13
+T1757,1/27/2026,17,Online,122,Home & Kitchen,4,255.92,0.24,New,Central,778.00
+T1758,1/28/2026,15,In-store,114,Electronics,1,15.6,0.15,New,West,13.26
+T1759,1/29/2026,19,Online,125,Beauty,7,378.27,0.16,Regular,South,2224.23
+T1760,1/30/2026,15,Online,121,Home & Kitchen,6,23.44,0.01,Regular,West,139.23
+T1761,1/31/2026,20,In-store,149,Home & Kitchen,10,107.81,0.17,VIP,North,894.82
+T1762,2/1/2026,6,Online,120,Sports,6,483.37,0.17,VIP,East,2407.18
+T1763,2/2/2026,3,In-store,149,Sports,6,143.56,0.34,Regular,West,568.50
+T1764,2/3/2026,13,Online,102,Home & Kitchen,1,167.54,0.48,Regular,South,87.12
+T1765,2/4/2026,20,In-store,119,Home & Kitchen,8,139.99,0.00,VIP,North,1119.92
+T1766,2/5/2026,3,In-store,112,Electronics,5,172.94,0.40,New,Central,518.82
+T1767,2/6/2026,14,Online,126,Sports,6,265.72,0.31,Regular,East,1100.08
+T1768,2/7/2026,5,Online,112,Electronics,3,365.73,0.13,VIP,South,954.56
+T1769,2/8/2026,18,In-store,118,Beauty,9,454.2,0.06,VIP,North,3842.53
+T1770,2/9/2026,19,Online,150,Clothing,5,468.53,0.39,VIP,North,1429.02
+T1771,2/10/2026,2,In-store,106,Sports,2,251.2,0.07,VIP,South,467.23
+T1772,2/11/2026,1,In-store,144,Electronics,7,131.61,0.07,New,West,856.78
+T1773,2/12/2026,1,In-store,147,Beauty,1,199.96,0.29,New,Central,141.97
+T1774,2/13/2026,3,In-store,105,Clothing,7,380.68,0.13,New,North,2318.34
+T1775,2/14/2026,6,In-store,130,Home & Kitchen,3,33.43,0.17,VIP,West,83.24
+T1776,2/15/2026,4,Online,143,Home & Kitchen,10,391.86,0.26,VIP,East,2899.76
+T1777,2/16/2026,18,In-store,111,Home & Kitchen,2,153.65,0.08,VIP,South,282.72
+T1778,2/17/2026,20,In-store,147,Sports,10,110.23,0.37,Regular,South,694.45
+T1779,2/18/2026,11,In-store,134,Sports,4,383.72,0.50,New,North,767.44
+T1780,2/19/2026,15,Online,102,Electronics,7,43.74,0.49,Regular,West,156.15
+T1781,2/20/2026,13,Online,111,Home & Kitchen,5,441.87,0.22,New,South,1723.29
+T1782,2/21/2026,18,Online,130,Clothing,2,173.3,0.07,VIP,Central,322.34
+T1783,2/22/2026,5,In-store,103,Sports,2,392.42,0.16,Regular,Central,659.27
+T1784,2/23/2026,2,Online,125,Sports,1,304.9,0.44,New,East,170.74
+T1785,2/24/2026,12,Online,147,Electronics,3,428.22,0.06,VIP,South,1207.58
+T1786,2/25/2026,9,Online,105,Electronics,4,152.27,0.21,New,South,481.17
+T1787,2/26/2026,16,Online,121,Home & Kitchen,9,295.24,0.13,Regular,East,2311.73
+T1788,2/27/2026,3,Online,103,Home & Kitchen,3,220.92,0.45,New,South,364.52
+T1789,2/28/2026,19,In-store,118,Home & Kitchen,4,80.88,0.46,Regular,South,174.70
+T1790,3/1/2026,11,Online,129,Sports,2,439.06,0.27,New,North,641.03
+T1791,3/2/2026,17,In-store,116,Clothing,7,471.02,0.03,New,West,3198.23
+T1792,3/3/2026,18,In-store,141,Clothing,2,260.27,0.28,New,East,374.79
+T1793,3/4/2026,16,In-store,143,Beauty,2,447.29,0.31,VIP,Central,617.26
+T1794,3/5/2026,6,In-store,139,Clothing,1,331.95,0.18,Regular,Central,272.20
+T1795,3/6/2026,2,In-store,136,Beauty,9,337.61,0.41,VIP,Central,1792.71
+T1796,3/7/2026,9,Online,138,,6,409.96,0.42,New,East,1426.66
+T1797,3/8/2026,18,In-store,137,Beauty,10,57.91,0.08,Regular,Central,532.77
+T1798,3/9/2026,18,In-store,138,Electronics,3,149.73,0.10,Regular,South,404.27
+T1799,3/10/2026,1,In-store,137,Clothing,7,392.79,0.50,VIP,East,1374.77
+T1800,3/11/2026,20,In-store,108,Electronics,3,221.2,0.17,VIP,East,550.79
+T1801,3/12/2026,5,In-store,120,Home & Kitchen,4,412.27,0.14,New,North,1418.21
+T1802,3/13/2026,4,Online,109,Electronics,2,392.15,0.38,VIP,East,486.27
+T1803,3/14/2026,14,Online,149,Clothing,4,66.36,0.45,New,North,145.99
+T1804,3/15/2026,12,Online,150,Home & Kitchen,6,270.01,0.12,New,South,1425.65
+T1805,3/16/2026,3,In-store,140,Sports,9,344.59,0.27,VIP,East,2263.96
+T1806,3/17/2026,9,In-store,107,Clothing,2,234.55,0.06,Regular,West,440.95
+T1807,3/18/2026,3,In-store,141,Beauty,8,99.76,0.37,Regular,South,502.79
+T1808,3/19/2026,5,In-store,129,Home & Kitchen,4,147.48,0.37,Regular,East,371.65
+T1809,3/20/2026,19,In-store,117,Clothing,7,316.48,0.31,New,South,1528.60
+T1810,3/21/2026,8,Online,144,Electronics,2,214.25,0.45,Regular,West,235.68
+T1811,3/22/2026,12,In-store,147,Sports,4,137.17,0.22,Regular,North,427.97
+T1812,3/23/2026,1,In-store,129,Beauty,5,209.25,0.35,Regular,North,680.06
+T1813,3/24/2026,2,Online,130,Beauty,6,454.62,0.30,Regular,North,1909.40
+T1814,3/25/2026,12,In-store,138,Electronics,8,189.08,0.32,Regular,Central,1028.60
+T1815,3/26/2026,11,Online,144,Clothing,2,164.71,0.16,New,West,276.71
+T1816,3/27/2026,1,In-store,144,Sports,4,190.25,0.22,VIP,North,593.58
+T1817,3/28/2026,14,Online,113,Sports,7,212.42,0.42,Regular,South,862.43
+T1818,3/29/2026,13,Online,139,Beauty,1,345.51,0.27,New,South,252.22
+T1819,3/30/2026,12,In-store,118,Sports,4,26.29,0.23,New,South,80.97
+T1820,3/31/2026,8,Online,142,Electronics,4,197.47,0.35,Regular,West,1026.84
+T1821,4/1/2026,6,Online,127,Beauty,4,141.95,0.17,New,West,471.27
+T1822,4/2/2026,13,In-store,150,Home & Kitchen,10,70.18,0.42,Regular,Central,407.04
+T1823,4/3/2026,9,In-store,105,Electronics,8,315.78,0.50,New,Central,1263.12
+T1824,4/4/2026,13,In-store,112,Beauty,1,418.16,0.36,VIP,North,267.62
+T1825,4/5/2026,10,Online,135,Sports,3,149.1,0.44,Regular,East,250.49
+T1826,4/6/2026,8,In-store,124,Beauty,4,280,0.45,VIP,Central,616.00
+T1827,4/7/2026,7,In-store,122,Beauty,2,344.94,0.12,VIP,East,1049.83
+T1828,4/8/2026,18,Online,103,Home & Kitchen,5,379.47,0.46,VIP,North,1024.57
+T1829,4/9/2026,18,Online,106,Electronics,1,349.72,0.50,VIP,Central,174.86
+T1830,4/10/2026,14,Online,150,Sports,4,175.74,0.35,Regular,West,685.39
+T1831,4/11/2026,13,Online,144,Home & Kitchen,7,313.38,0.04,Regular,North,2105.91
+T1832,4/12/2026,11,In-store,126,Sports,3,405.12,0.43,Regular,West,692.76
+T1833,4/13/2026,7,Online,138,Sports,4,141.12,0.33,VIP,South,378.20
+T1834,4/14/2026,18,In-store,127,Sports,4,493.58,0.38,Regular,East,1224.08
+T1835,4/15/2026,20,Online,131,Home & Kitchen,3,13.98,0.09,VIP,North,38.17
+T1836,4/16/2026,3,In-store,115,Electronics,2,477.83,0.33,Regular,Central,640.29
+T1837,4/17/2026,19,In-store,145,Beauty,8,409.02,0.08,New,South,3010.39
+T1838,4/18/2026,12,Online,124,Electronics,2,464.26,0.20,New,West,742.82
+T1839,4/19/2026,11,In-store,123,Sports,5,204.86,0.13,VIP,South,891.14
+T1840,4/20/2026,4,Online,127,Electronics,7,375.86,0.21,New,West,2078.51
+T1841,4/21/2026,8,In-store,120,Electronics,6,352.85,0.14,New,Central,1820.71
+T1842,4/22/2026,18,In-store,144,Sports,10,251.81,0.34,VIP,Central,1661.95
+T1843,4/23/2026,6,In-store,118,Electronics,1,493.47,0.09,New,West,449.06
+T1844,4/24/2026,18,In-store,127,Home & Kitchen,4,359.81,0.00,VIP,East,1799.05
+T1845,4/25/2026,19,Online,145,Electronics,4,350.88,0.20,Regular,Central,1122.82
+T1846,4/26/2026,15,Online,132,Clothing,4,131.7,0.20,Regular,East,421.44
+T1847,4/27/2026,14,Online,148,Electronics,4,26.48,0.08,VIP,West,194.89
+T1848,4/28/2026,16,In-store,145,Clothing,5,399.9,0.30,Regular,East,1399.65
+T1849,4/29/2026,17,Online,146,Beauty,9,59.77,0.02,VIP,Central,527.17
+T1850,4/30/2026,11,In-store,135,Clothing,9,59.37,0.03,VIP,South,518.30
+T1851,5/1/2026,11,Online,142,Home & Kitchen,1,359.19,0.39,VIP,West,219.11
+T1852,5/2/2026,10,Online,129,Clothing,3,133.3,0.12,Regular,North,351.91
+T1853,5/3/2026,18,Online,103,Sports,6,445.75,0.26,VIP,West,1979.13
+T1854,5/4/2026,10,Online,141,Electronics,4,319.82,0.37,Regular,South,805.95
+T1855,5/5/2026,12,In-store,127,Sports,4,54.86,0.40,VIP,East,131.66
+T1856,5/6/2026,18,In-store,112,Electronics,6,259.88,0.07,Regular,East,1450.13
+T1857,5/7/2026,4,In-store,131,Home & Kitchen,9,414.71,0.07,New,Central,3471.12
+T1858,5/8/2026,1,In-store,125,Beauty,4,354.73,0.03,VIP,South,1376.35
+T1859,5/9/2026,15,In-store,132,Beauty,8,170.42,0.13,Regular,Central,1186.12
+T1860,5/10/2026,5,In-store,129,Electronics,4,484.5,0.16,New,Central,1627.92
+T1861,5/11/2026,17,In-store,144,Electronics,4,220.34,0.20,Regular,North,705.09
+T1862,5/12/2026,13,Online,148,Home & Kitchen,10,103.04,0.32,Regular,Central,700.67
+T1863,5/13/2026,3,Online,134,Clothing,5,61.08,0.31,New,Central,210.73
+T1864,5/14/2026,14,In-store,145,Clothing,10,208.47,0.30,Regular,North,1459.29
+T1865,5/15/2026,6,Online,133,Sports,1,313.13,0.13,Regular,Central,272.42
+T1866,5/16/2026,7,Online,119,Electronics,7,27.74,0.32,Regular,Central,132.04
+T1867,5/17/2026,6,Online,116,Home & Kitchen,6,122.42,0.34,VIP,Central,484.78
+T1868,5/18/2026,7,In-store,117,Clothing,10,443.27,0.04,VIP,South,4255.39
+T1869,5/19/2026,12,Online,123,Clothing,3,57.64,0.24,Regular,West,131.42
+T1870,5/20/2026,19,Online,106,Sports,9,412.21,0.01,New,East,3672.79
+T1871,5/21/2026,16,Online,123,Clothing,8,420.5,0.43,Regular,Central,1917.48
+T1872,5/22/2026,11,Online,107,Electronics,6,462.55,0.20,Regular,South,2220.24
+T1873,5/23/2026,15,In-store,139,Electronics,6,360.49,0.28,New,North,1557.32
+T1874,5/24/2026,16,Online,150,Sports,6,143.9,0.35,New,South,561.21
+T1875,5/25/2026,15,In-store,145,,4,447.78,0.36,New,South,1146.32
+T1876,5/26/2026,9,In-store,107,Beauty,2,207.82,0.28,VIP,North,299.26
+T1877,5/27/2026,18,In-store,116,Beauty,5,98.9,0.41,Regular,North,291.76
+T1878,5/28/2026,20,In-store,109,Electronics,7,203.51,0.03,VIP,Central,1381.83
+T1879,5/29/2026,11,Online,101,Sports,2,398.4,0.03,Regular,South,772.90
+T1880,5/30/2026,9,Online,111,Home & Kitchen,3,291.89,0.29,New,South,621.73
+T1881,5/31/2026,12,Online,107,Clothing,3,23.22,0.24,New,East,52.94
+T1882,6/1/2026,11,In-store,112,Electronics,6,266.13,0.36,Regular,North,340.65
+T1883,6/2/2026,17,In-store,150,Electronics,1,370.52,0.09,Regular,South,337.17
+T1884,6/3/2026,2,In-store,107,Sports,3,18.21,0.31,Regular,South,37.69
+T1885,6/4/2026,11,In-store,129,Home & Kitchen,2,180.32,0.22,VIP,East,281.30
+T1886,6/5/2026,7,Online,142,Sports,1,302.47,0.44,VIP,North,169.38
+T1887,6/6/2026,7,Online,103,Electronics,4,325.92,0.04,Regular,East,1251.53
+T1888,6/7/2026,9,In-store,141,Sports,7,363.61,0.06,Regular,South,2392.55
+T1889,6/8/2026,19,In-store,130,Beauty,10,76.36,0.13,VIP,East,664.33
+T1890,6/9/2026,17,In-store,134,,4,336.7,0.02,Regular,South,1319.86
+T1891,6/10/2026,16,Online,131,Beauty,5,91.44,0.14,New,South,393.19
+T1892,6/11/2026,1,Online,125,Sports,7,114.58,0.04,VIP,South,769.98
+T1893,6/12/2026,19,In-store,120,Sports,6,76.39,0.39,New,West,279.59
+T1894,6/13/2026,2,In-store,111,Sports,4,196.06,0.30,VIP,Central,548.97
+T1895,6/14/2026,12,Online,104,Sports,7,377.52,0.31,New,East,1823.42
+T1896,6/15/2026,11,Online,129,Beauty,10,344.52,0.19,Regular,North,2790.61
+T1897,6/16/2026,2,Online,102,Home & Kitchen,9,325.94,0.13,New,Central,2552.11
+T1898,6/17/2026,13,In-store,149,Clothing,4,102.26,0.11,Regular,West,364.05
+T1899,6/18/2026,5,In-store,130,Home & Kitchen,2,28.02,0.37,VIP,West,35.31
+T1900,6/19/2026,8,Online,105,Clothing,5,168.85,0.41,New,East,498.11
+T1901,6/20/2026,4,In-store,134,Electronics,8,377.76,0.06,Regular,South,2840.76
+T1902,6/21/2026,14,In-store,134,Electronics,4,456.43,0.05,New,North,1734.43
+T1903,6/22/2026,15,Online,138,Clothing,2,122.09,0.34,VIP,North,161.16
+T1904,6/23/2026,4,In-store,133,Sports,10,328.19,0.24,VIP,Central,2494.24
+T1905,6/24/2026,15,In-store,150,Sports,6,187.42,0.36,Regular,North,719.69
+T1906,6/25/2026,2,In-store,111,Clothing,3,248.44,0.06,Regular,Central,700.60
+T1907,6/26/2026,16,Online,114,Electronics,9,12.22,0.45,Regular,South,60.49
+T1908,6/27/2026,6,Online,114,Home & Kitchen,3,273,0.27,New,Central,597.87
+T1909,6/28/2026,10,Online,114,Sports,10,268.35,0.15,Regular,East,2280.97
+T1910,6/29/2026,1,Online,141,Home & Kitchen,4,31.11,0.24,VIP,East,94.57
+T1911,6/30/2026,12,In-store,110,Electronics,3,255.53,0.41,Regular,East,452.29
+T1912,7/1/2026,1,Online,125,Electronics,3,405.17,0.41,VIP,South,717.15
+T1913,7/2/2026,8,Online,140,Clothing,10,160.71,0.07,New,East,1494.60
+T1914,7/3/2026,8,In-store,121,Home & Kitchen,7,464.52,0.45,Regular,South,1788.40
+T1915,7/4/2026,4,Online,129,Home & Kitchen,10,384.95,0.15,VIP,North,3272.07
+T1916,7/5/2026,13,Online,107,Clothing,10,271.13,0.21,Regular,Central,2141.93
+T1917,7/6/2026,17,Online,127,Home & Kitchen,5,456.66,0.44,VIP,Central,1278.65
+T1918,7/7/2026,1,Online,109,Clothing,7,363.41,0.39,New,East,1551.76
+T1919,7/8/2026,9,Online,129,Clothing,7,417.7,0.11,VIP,East,2602.27
+T1920,7/9/2026,9,Online,137,Sports,8,91,0.27,New,South,531.44
+T1921,7/10/2026,18,Online,108,Clothing,7,471.33,0.43,VIP,South,1880.61
+T1922,7/11/2026,1,In-store,126,Sports,1,221.5,0.29,Regular,Central,157.26
+T1923,7/12/2026,20,In-store,126,Home & Kitchen,8,468.98,0.13,VIP,East,3264.10
+T1924,7/13/2026,15,Online,130,Beauty,10,345.49,0.48,VIP,North,1796.55
+T1925,7/14/2026,10,Online,136,Beauty,7,208.72,0.30,Regular,West,1022.73
+T1926,7/15/2026,9,Online,141,Sports,6,488.21,0.32,VIP,Central,1991.90
+T1927,7/16/2026,8,In-store,146,Clothing,1,104.56,0.00,Regular,West,104.56
+T1928,7/17/2026,2,Online,143,,10,178.38,0.05,Regular,South,1694.61
+T1929,7/18/2026,7,In-store,120,,7,8.85,0.38,Regular,North,38.41
+T1930,7/19/2026,17,In-store,127,Clothing,4,39.82,0.04,Regular,Central,152.91
+T1931,7/20/2026,5,In-store,115,Sports,6,189.22,0.10,New,Central,1021.79
+T1932,7/21/2026,14,Online,135,Beauty,2,96.82,0.02,New,West,189.77
+T1933,7/22/2026,12,Online,141,Beauty,3,194.73,0.29,New,North,414.77
+T1934,7/23/2026,16,In-store,133,Clothing,8,66.59,0.36,Regular,North,340.94
+T1935,7/24/2026,16,In-store,141,Home & Kitchen,9,187.48,0.10,New,East,1518.59
+T1936,7/25/2026,16,Online,123,Sports,6,342.42,0.10,VIP,South,1540.89
+T1937,7/26/2026,9,Online,130,Clothing,6,458.88,0.36,VIP,East,1762.10
+T1938,7/27/2026,19,In-store,140,Beauty,4,135.1,0.28,Regular,East,389.09
+T1939,7/28/2026,14,In-store,106,Sports,7,447.44,0.08,Regular,South,2881.51
+T1940,7/29/2026,2,Online,115,Electronics,3,289.21,0.42,Regular,North,503.23
+T1941,7/30/2026,2,Online,115,,4,431.97,0.18,New,East,1416.86
+T1942,7/31/2026,10,In-store,143,Clothing,2,230.61,0.31,VIP,South,318.24
+T1943,8/1/2026,10,Online,114,Clothing,8,312.92,0.40,New,East,1502.02
+T1944,8/2/2026,5,In-store,105,Beauty,9,360.99,0.23,VIP,West,2501.66
+T1945,8/3/2026,5,In-store,122,,8,498.99,0.47,Regular,South,2115.72
+T1946,8/4/2026,3,Online,133,,5,172.2,0.50,New,North,430.50
+T1947,8/5/2026,13,In-store,139,Clothing,2,77.58,0.25,Regular,Central,116.37
+T1948,8/6/2026,8,In-store,126,Electronics,6,445.9,0.48,Regular,West,1391.21
+T1949,8/7/2026,14,In-store,131,Beauty,10,403.52,0.48,New,East,2098.30
+T1950,8/8/2026,5,In-store,136,Sports,2,110.71,0.05,VIP,Central,210.35
+T1951,8/9/2026,11,Online,112,Clothing,2,417.02,0.25,VIP,North,625.53
+T1952,8/10/2026,4,Online,124,Sports,4,399.81,0.49,New,East,815.61
+T1953,8/11/2026,5,In-store,145,Sports,9,193.29,0.37,New,East,1095.95
+T1954,8/12/2026,15,In-store,123,,6,468.94,0.12,Regular,East,2476.00
+T1955,8/13/2026,8,Online,107,Electronics,2,309.07,0.02,Regular,Central,605.78
+T1956,8/14/2026,19,In-store,142,Clothing,3,441.78,0.47,VIP,South,702.43
+T1957,8/15/2026,14,Online,141,Home & Kitchen,3,36.18,0.19,VIP,Central,87.92
+T1958,8/16/2026,11,Online,132,Beauty,10,391.15,0.16,VIP,East,3285.66
+T1959,8/17/2026,5,In-store,130,Beauty,7,423.26,0.46,Regular,South,1599.92
+T1960,8/18/2026,4,In-store,146,Electronics,1,403.43,0.33,Regular,East,270.30
+T1961,8/19/2026,11,Online,125,Clothing,9,34.91,0.33,VIP,Central,210.51
+T1962,8/20/2026,1,In-store,143,Beauty,6,395.29,0.26,New,Central,1755.09
+T1963,8/21/2026,19,In-store,109,Electronics,9,366.28,0.14,New,East,2835.01
+T1964,8/22/2026,3,Online,108,Electronics,8,244.14,0.50,VIP,North,976.56
+T1965,8/23/2026,2,In-store,116,Beauty,5,376.56,0.33,VIP,South,1261.48
+T1966,8/24/2026,17,In-store,145,Home & Kitchen,10,184.63,0.20,VIP,Central,1477.04
+T1967,8/25/2026,4,In-store,122,Clothing,5,173.74,0.49,VIP,West,443.04
+T1968,8/26/2026,3,In-store,110,Beauty,4,175.53,0.25,New,Central,526.59
+T1969,8/27/2026,14,Online,140,Clothing,10,489.66,0.11,New,South,4357.97
+T1970,8/28/2026,3,Online,141,Clothing,1,9.45,0.15,New,West,8.03
+T1971,8/29/2026,6,In-store,129,Beauty,4,321.01,0.06,New,West,1207.00
+T1972,8/30/2026,19,Online,140,Home & Kitchen,7,108.52,0.39,New,South,463.38
+T1973,8/31/2026,15,Online,140,Beauty,8,326.74,0.37,VIP,Central,1646.77
+T1974,9/1/2026,19,Online,105,Home & Kitchen,6,358.63,0.12,VIP,East,1893.57
+T1975,9/2/2026,1,Online,124,Sports,7,105.42,0.47,Regular,East,391.11
+T1976,9/3/2026,5,In-store,137,Home & Kitchen,8,19.2,0.05,Regular,West,145.92
+T1977,9/4/2026,6,In-store,144,Sports,9,73.86,0.27,VIP,North,485.26
+T1978,9/5/2026,11,In-store,108,Electronics,1,476.85,0.19,VIP,East,386.25
+T1979,9/6/2026,10,In-store,125,Home & Kitchen,8,14.24,0.43,New,East,64.93
+T1980,9/7/2026,20,In-store,106,Home & Kitchen,8,93.94,0.07,New,East,698.91
+T1981,9/8/2026,11,In-store,126,Home & Kitchen,1,299.11,0.21,VIP,North,236.30
+T1982,9/9/2026,8,In-store,125,Home & Kitchen,3,43.88,0.26,Regular,East,97.41
+T1983,9/10/2026,20,Online,150,Beauty,9,47.31,0.03,VIP,Central,413.02
+T1984,9/11/2026,7,Online,142,Electronics,6,297.82,0.31,New,North,1026.18
+T1985,9/12/2026,19,In-store,133,Beauty,6,380.18,0.35,VIP,North,1482.70
+T1986,9/13/2026,11,In-store,139,Sports,5,89.49,0.16,Regular,South,375.86
+T1987,9/14/2026,16,In-store,150,Electronics,7,31.87,0.06,VIP,South,209.70
+T1988,9/15/2026,8,Online,109,Home & Kitchen,5,147.35,0.32,Regular,East,500.99
+T1989,9/16/2026,10,Online,126,Beauty,4,420.55,0.07,Regular,Central,1564.45
+T1990,9/17/2026,14,In-store,127,Electronics,6,257.46,0.48,New,North,803.28
+T1991,9/18/2026,15,In-store,115,Electronics,3,208.07,0.03,Regular,East,605.48
+T1992,9/19/2026,9,In-store,104,Electronics,7,283.09,0.15,VIP,North,1684.39
+T1993,9/20/2026,4,In-store,106,Home & Kitchen,4,149.17,0.10,Regular,North,537.01
+T1994,9/21/2026,7,Online,109,Beauty,1,259.78,0.06,VIP,Central,244.19
+T1995,9/22/2026,1,Online,127,Sports,8,210.1,0.18,Regular,South,1378.26
+T1996,9/23/2026,7,Online,121,Beauty,10,175.04,0.19,New,East,1417.82
+T1997,9/24/2026,10,Online,123,Sports,6,174.54,0.34,New,West,691.18
+T1998,9/25/2026,18,In-store,123,Home & Kitchen,9,335.98,0.04,VIP,North,2902.87
+T1999,9/26/2026,20,Online,109,Home & Kitchen,1,464.86,0.05,VIP,Central,441.62
+T2000,9/27/2026,12,In-store,125,Sports,2,194.02,0.01,New,West,384.16
+T2001,9/28/2026,1,Online,101,Clothing,10,360.56,0.28,New,South,2596.03
+T2002,9/29/2026,9,In-store,147,Electronics,10,65.71,0.37,New,South,413.97
+T2003,9/30/2026,11,In-store,128,Clothing,4,235.12,0.41,New,North,554.88
+T2004,10/1/2026,7,In-store,147,Clothing,1,156,0.18,VIP,Central,127.92
+T2005,10/2/2026,9,In-store,112,Electronics,3,292.83,0.09,New,North,799.43
+T2006,10/3/2026,11,In-store,121,Beauty,4,86.27,0.43,Regular,Central,196.70
+T2007,10/4/2026,2,In-store,146,Electronics,5,154.57,0.45,VIP,West,425.07
+T2008,10/5/2026,17,Online,150,Beauty,6,426.2,0.28,New,Central,1841.18
+T2009,10/6/2026,20,Online,102,Sports,9,86.4,0.14,New,Central,668.74
+T2010,10/7/2026,14,Online,132,Sports,7,207.34,0.24,Regular,South,1103.05
+T2011,10/8/2026,14,Online,104,Beauty,10,180.67,0.30,New,Central,1264.69
+T2012,10/9/2026,2,In-store,149,Home & Kitchen,9,273.64,0.35,New,Central,1600.79
+T2013,10/10/2026,2,In-store,111,Electronics,4,329.81,0.24,Regular,West,1002.62
+T2014,10/11/2026,2,In-store,139,Clothing,3,338.24,0.16,VIP,East,852.36
+T2015,10/12/2026,18,In-store,120,Beauty,4,77.1,0.06,VIP,West,289.90
+T2016,10/13/2026,5,Online,137,Beauty,10,461.59,0.34,VIP,Central,3046.49
+T2017,10/14/2026,10,Online,107,Electronics,5,380.52,0.42,Regular,West,1103.51
+T2018,10/15/2026,14,Online,110,Sports,6,411.81,0.14,Regular,South,2124.94
+T2019,10/16/2026,18,Online,110,Beauty,6,9.27,0.21,New,North,43.94
+T2020,10/17/2026,17,Online,108,Clothing,3,404.64,0.17,New,Central,1007.55
+T2021,10/18/2026,13,Online,144,Electronics,5,300.18,0.26,New,East,1110.67
+T2022,10/19/2026,9,Online,134,Home & Kitchen,7,384.59,0.24,New,South,2046.02
+T2023,10/20/2026,1,In-store,149,,5,62.54,0.24,VIP,Central,237.65
+T2024,10/21/2026,15,Online,136,Home & Kitchen,5,344.99,0.37,Regular,North,1086.72
+T2025,10/22/2026,17,Online,121,Home & Kitchen,8,12.34,0.13,Regular,West,1057.61
+T2026,10/23/2026,15,Online,140,Sports,7,387.66,0.02,VIP,East,2659.35
+T2027,10/24/2026,20,Online,133,Beauty,2,362.22,0.15,New,North,615.77
+T2028,10/25/2026,4,In-store,128,Home & Kitchen,5,46.88,0.48,Regular,South,121.89
+T2029,10/26/2026,10,Online,148,Sports,6,384.16,0.39,New,South,1406.03
+T2030,10/27/2026,9,In-store,143,Home & Kitchen,1,288.46,0.28,VIP,Central,207.69
+T2031,10/28/2026,19,Online,111,Electronics,10,483.29,0.47,Regular,North,2561.44
+T2032,10/29/2026,19,In-store,111,Home & Kitchen,7,95.07,0.34,VIP,South,439.22
+T2033,10/30/2026,18,In-store,128,Home & Kitchen,2,441.47,0.20,New,South,706.35
+T2034,10/31/2026,13,In-store,142,Sports,2,343.55,0.03,Regular,North,666.49
+T2035,11/1/2026,12,In-store,145,Beauty,8,170.38,0.37,VIP,East,858.72
+T2036,11/2/2026,6,Online,133,Sports,9,47.13,0.29,Regular,West,301.16
+T2037,11/3/2026,15,Online,120,Electronics,3,264.25,0.25,Regular,East,594.56
+T2038,11/4/2026,14,Online,140,Clothing,8,125.88,0.48,Regular,East,523.66
+T2039,11/5/2026,20,Online,116,Sports,3,361.22,0.35,New,West,704.38
+T2040,11/6/2026,5,Online,103,Beauty,6,448.67,0.08,New,East,2476.66
+T2041,11/7/2026,19,Online,140,Beauty,4,12.35,0.11,New,East,43.97
+T2042,11/8/2026,5,Online,134,Beauty,5,157.38,0.43,VIP,South,448.53
+T2043,11/9/2026,11,Online,122,Home & Kitchen,6,500,0.08,New,North,2760.00
+T2044,11/10/2026,10,Online,132,Sports,9,137.35,0.23,VIP,West,951.84
+T2045,11/11/2026,16,In-store,140,Beauty,6,339.39,0.08,Regular,West,1873.43
+T2046,11/12/2026,1,Online,103,Beauty,10,213.53,0.12,New,South,1879.06
+T2047,11/13/2026,18,In-store,138,Sports,6,265.65,0.26,Regular,North,1179.49
+T2048,11/14/2026,9,In-store,105,Beauty,10,36.78,0.21,VIP,North,290.56
+T2049,11/15/2026,20,Online,109,Clothing,4,97.33,0.39,Regular,North,237.49
+T2050,11/16/2026,13,Online,116,Clothing,9,222.31,0.39,Regular,East,1220.48
+T2051,11/17/2026,1,In-store,128,Clothing,4,427.3,0.36,VIP,South,1093.89
+T2052,11/18/2026,17,Online,122,Electronics,6,36.68,0.04,Regular,Central,316.92
+T2053,11/19/2026,15,Online,149,Clothing,9,49.3,0.14,VIP,South,381.58
+T2054,11/20/2026,4,In-store,125,Home & Kitchen,10,144.84,0.09,New,East,1318.04
+T2055,11/21/2026,15,In-store,103,Beauty,6,155.84,0.26,New,Central,691.93
+T2056,11/22/2026,10,In-store,136,Beauty,4,205.75,0.33,Regular,South,551.41
+T2057,11/23/2026,12,Online,115,,5,319.82,0.37,VIP,West,1007.43
+T2058,11/24/2026,1,Online,128,Beauty,8,446.47,0.47,Regular,South,1893.03
+T2059,11/25/2026,3,In-store,136,Clothing,5,136.23,0.29,New,East,483.62
+T2060,11/26/2026,12,In-store,113,Clothing,3,16.81,0.48,Regular,East,26.22
+T2061,11/27/2026,12,Online,108,Beauty,9,332.88,0.21,Regular,Central,2366.78
+T2062,11/28/2026,14,Online,139,Electronics,8,103.63,0.39,New,North,505.71
+T2063,11/29/2026,10,In-store,140,Sports,4,348.07,0.23,VIP,East,1072.06
+T2064,11/30/2026,5,In-store,142,Beauty,6,499.39,0.37,VIP,East,1887.69
+T2065,12/1/2026,16,In-store,119,Electronics,1,181.8,0.33,New,North,121.81
+T2066,12/2/2026,5,In-store,109,Home & Kitchen,7,338.72,0.14,New,South,1052.18
+T2067,12/3/2026,5,Online,141,Beauty,7,447.96,0.15,New,Central,1051.02
+T2068,12/4/2026,8,In-store,150,Sports,7,23.81,0.49,Regular,West,85.00
+T2069,12/5/2026,14,In-store,131,Home & Kitchen,4,490.73,0.16,VIP,South,1648.85
+T2070,12/6/2026,3,Online,149,Home & Kitchen,1,147.7,0.24,VIP,East,112.25
+T2071,12/7/2026,17,Online,138,Sports,9,82.44,0.50,Regular,North,370.98
+T2072,12/8/2026,9,Online,133,Clothing,10,83.05,0.03,Regular,North,805.58
+T2073,12/9/2026,10,Online,142,Sports,8,120.84,0.17,VIP,South,802.38
+T2074,12/10/2026,10,Online,149,Home & Kitchen,7,340.46,0.23,New,Central,1835.08
+T2075,12/11/2026,12,In-store,150,Clothing,10,114.95,0.41,VIP,East,678.21
+T2076,12/12/2026,20,In-store,128,Electronics,6,224.49,0.23,Regular,East,1037.14
+T2077,12/13/2026,11,In-store,150,Clothing,2,29.41,0.08,New,Central,54.11
+T2078,12/14/2026,5,Online,114,Sports,8,202.42,0.21,New,West,1279.29
+T2079,12/15/2026,17,Online,138,Sports,3,99.96,0.01,Regular,East,296.88
+T2080,12/16/2026,13,Online,144,Beauty,2,338.83,0.19,VIP,South,548.90
+T2081,12/17/2026,12,In-store,126,Beauty,2,56.05,0.48,VIP,West,58.29
+T2082,12/18/2026,5,Online,116,Home & Kitchen,8,217.81,0.38,New,North,1066.76
+T2083,12/19/2026,3,Online,119,Clothing,4,386.58,0.38,Regular,West,958.72
+T2084,12/20/2026,10,In-store,110,Sports,1,476.6,0.28,Regular,South,343.15
+T2085,12/21/2026,18,In-store,111,Home & Kitchen,6,426.57,0.29,Regular,South,1817.19
+T2086,12/22/2026,9,In-store,103,Clothing,7,430.06,0.10,Regular,South,2709.38
+T2087,12/23/2026,1,In-store,112,Clothing,4,307.24,0.02,Regular,Central,1204.38
+T2088,12/24/2026,15,In-store,120,Beauty,10,495.97,0.25,New,North,3719.78
+T2089,12/25/2026,17,Online,119,Home & Kitchen,9,460.3,0.46,VIP,Central,2237.06
+T2090,12/26/2026,17,In-store,113,Clothing,10,477.13,0.14,VIP,North,4103.32
+T2091,12/27/2026,11,Online,119,Clothing,6,496.9,0.41,New,North,1759.03
+T2092,12/28/2026,3,Online,129,Clothing,5,429.73,0.02,New,North,2105.68
+T2093,12/29/2026,19,Online,113,Clothing,6,42.19,0.41,Regular,East,149.35
+T2094,12/30/2026,3,In-store,146,Electronics,2,362.22,0.00,VIP,South,724.44
+T2095,12/31/2026,1,In-store,125,Sports,1,92.27,0.30,Regular,East,64.59
+T2096,1/1/2027,6,Online,149,,3,187.48,0.31,New,South,388.08
+T2097,1/2/2027,1,In-store,121,Clothing,4,164.57,0.41,New,North,388.39
+T2098,1/3/2027,2,In-store,143,Sports,4,174.29,0.13,Regular,South,606.53
+T2099,1/4/2027,16,In-store,101,Electronics,1,224.09,0.20,VIP,North,179.27
+T2100,1/5/2027,3,In-store,147,Sports,2,125.44,0.02,VIP,North,245.86
+T2101,1/6/2027,14,Online,140,Clothing,5,71.79,0.40,VIP,East,215.37
+T2102,1/7/2027,11,In-store,103,Electronics,2,278.03,0.16,Regular,East,467.09
+T2103,1/8/2027,17,In-store,111,Home & Kitchen,5,157.85,0.13,Regular,South,686.65
+T2104,1/9/2027,12,In-store,128,Home & Kitchen,8,295.05,0.02,New,South,2313.19
+T2105,1/10/2027,17,In-store,127,Beauty,8,228.38,0.33,Regular,Central,1224.12
+T2106,1/11/2027,19,In-store,124,Clothing,9,303.8,0.05,New,East,2597.49
+T2107,1/12/2027,1,Online,119,Sports,3,253.18,0.07,VIP,South,706.37
+T2108,1/13/2027,3,Online,131,Home & Kitchen,1,55.79,0.31,Regular,West,38.50
+T2109,1/14/2027,6,In-store,138,Electronics,6,389.4,0.01,New,West,2313.04
+T2110,1/15/2027,11,Online,140,Clothing,9,43.38,0.48,Regular,East,203.02
+T2111,1/16/2027,3,Online,108,Beauty,5,495.9,0.23,Regular,South,1909.22
+T2112,1/17/2027,18,In-store,124,Sports,5,229.6,0.12,Regular,East,1010.24
+T2113,1/18/2027,1,In-store,118,Electronics,6,57.44,0.17,New,East,286.05
+T2114,1/19/2027,3,In-store,141,Clothing,8,411.99,0.05,Regular,South,3131.12
+T2115,1/20/2027,8,In-store,136,Home & Kitchen,2,318.48,0.36,Regular,West,407.65
+T2116,1/21/2027,12,In-store,105,Clothing,4,230.56,0.12,VIP,West,811.57
+T2117,1/22/2027,15,In-store,145,Beauty,1,361.41,0.04,New,South,346.95
+T2118,1/23/2027,16,Online,136,Sports,8,385.33,0.03,Regular,South,2990.16
+T2119,1/24/2027,19,In-store,123,Beauty,1,384.91,0.11,VIP,East,342.57
+T2120,1/25/2027,8,In-store,117,Sports,1,109.67,0.36,Regular,West,70.19
+T2121,1/26/2027,19,Online,146,Beauty,8,350.79,0.10,Regular,South,2525.69
+T2122,1/27/2027,20,Online,130,Sports,6,443.04,0.39,New,North,1621.53
+T2123,1/28/2027,17,Online,116,Clothing,3,424.3,0.31,Regular,East,878.30
+T2124,1/29/2027,17,Online,148,Home & Kitchen,5,250.48,0.11,Regular,West,1114.64
+T2125,1/30/2027,15,Online,117,Home & Kitchen,2,288.79,0.02,New,South,566.03
+T2126,1/31/2027,16,In-store,124,Electronics,9,337.11,0.18,New,East,2487.87
+T2127,2/1/2027,2,Online,143,Electronics,1,218.04,0.17,New,North,180.97
+T2128,2/2/2027,20,In-store,118,Beauty,10,264.34,0.21,Regular,Central,2088.29
+T2129,2/3/2027,7,In-store,144,Sports,9,239.27,0.27,Regular,West,1572.00
+T2130,2/4/2027,19,In-store,148,Clothing,6,404.98,0.28,New,Central,1749.51
+T2131,2/5/2027,10,In-store,128,Sports,9,178.66,0.41,VIP,West,948.68
+T2132,2/6/2027,2,Online,102,Sports,1,194.51,0.08,New,Central,178.95
+T2133,2/7/2027,4,In-store,130,Sports,1,426.21,0.36,New,Central,272.77
+T2134,2/8/2027,11,Online,137,Clothing,3,143,0.25,New,South,321.75
+T2135,2/9/2027,3,Online,146,Sports,2,411.34,0.25,Regular,East,617.01
+T2136,2/10/2027,4,Online,120,Electronics,4,113.97,0.36,New,East,291.76
+T2137,2/11/2027,10,Online,145,Clothing,3,403.67,0.18,VIP,South,993.03
+T2138,2/12/2027,13,In-store,112,Beauty,9,192.54,0.18,New,North,1420.95
+T2139,2/13/2027,12,Online,139,Electronics,2,244.5,0.33,VIP,West,327.63
+T2140,2/14/2027,9,In-store,137,Beauty,1,433.14,0.46,Regular,South,233.90
+T2141,2/15/2027,10,In-store,144,Home & Kitchen,10,348.1,0.39,VIP,West,2123.41
+T2142,2/16/2027,4,Online,117,Sports,8,289.68,0.19,Regular,Central,1877.13
+T2143,2/17/2027,6,In-store,134,Clothing,5,383.49,0.47,Regular,West,1016.25
+T2144,2/18/2027,17,Online,141,Beauty,5,252.81,0.19,VIP,West,1023.88
+T2145,2/19/2027,6,Online,112,Beauty,6,63.43,0.37,New,Central,239.77
+T2146,2/20/2027,9,Online,117,Home & Kitchen,9,219.18,0.47,VIP,West,1045.49
+T2147,2/21/2027,5,In-store,108,,1,163.16,0.43,New,East,93.00
+T2148,2/22/2027,17,Online,114,Beauty,4,31.71,0.44,New,East,71.03
+T2149,2/23/2027,17,In-store,120,Sports,8,473.44,0.20,New,East,3030.02
+T2150,2/24/2027,20,Online,110,Home & Kitchen,10,449.34,0.03,New,West,4358.60
+T2151,2/25/2027,11,In-store,127,Sports,1,102.58,0.46,Regular,South,55.39
+T2152,2/26/2027,1,Online,113,Sports,3,74.91,0.48,New,West,116.86
+T2153,2/27/2027,10,In-store,129,Electronics,7,43.87,0.38,New,East,190.40
+T2154,2/28/2027,5,Online,119,,10,183.33,0.14,Regular,East,1576.64
+T2155,3/1/2027,16,Online,115,Home & Kitchen,6,387.06,0.03,Regular,East,2252.69
+T2156,3/2/2027,18,Online,129,Beauty,7,226.06,0.05,VIP,East,1503.30
+T2157,3/3/2027,1,In-store,127,Home & Kitchen,9,409.86,0.16,VIP,Central,3098.54
+T2158,3/4/2027,3,In-store,103,Clothing,4,422.02,0.02,Regular,North,1654.32
+T2159,3/5/2027,13,Online,107,Clothing,10,52.6,0.22,VIP,Central,410.28
+T2160,3/6/2027,14,Online,142,Clothing,4,413.22,0.46,VIP,West,892.56
+T2161,3/7/2027,14,In-store,139,Beauty,3,242.03,0.05,VIP,North,689.79
+T2162,3/8/2027,17,In-store,130,Sports,4,483.06,0.19,VIP,North,1565.11
+T2163,3/9/2027,8,Online,147,,4,34.1,0.10,VIP,West,122.76
+T2164,3/10/2027,3,Online,144,Home & Kitchen,7,222.19,0.15,Regular,East,1322.03
+T2165,3/11/2027,20,Online,110,Home & Kitchen,6,342.54,0.46,Regular,Central,1109.83
+T2166,3/12/2027,12,In-store,123,Home & Kitchen,4,358.51,0.34,New,West,946.47
+T2167,3/13/2027,3,Online,143,Sports,2,392.56,0.49,Regular,North,400.41
+T2168,3/14/2027,1,Online,133,Beauty,5,126.65,0.44,New,East,354.62
+T2169,3/15/2027,9,In-store,120,Sports,1,211.39,0.18,VIP,North,173.34
+T2170,3/16/2027,17,In-store,148,Clothing,3,193.12,0.39,New,West,353.41
+T2171,3/17/2027,8,In-store,125,Home & Kitchen,2,333.52,0.01,VIP,West,660.37
+T2172,3/18/2027,9,In-store,110,Home & Kitchen,6,138.56,0.24,Regular,West,631.83
+T2173,3/19/2027,3,In-store,123,Clothing,10,398.65,0.38,Regular,North,2471.63
+T2174,3/20/2027,10,In-store,101,Sports,3,186.13,0.15,Regular,South,474.63
+T2175,3/21/2027,10,In-store,110,Sports,10,117.35,0.26,Regular,Central,868.39
+T2176,3/22/2027,1,Online,116,Home & Kitchen,2,63.21,0.45,VIP,South,69.53
+T2177,3/23/2027,16,Online,110,Beauty,8,19.96,0.37,New,North,100.60
+T2178,3/24/2027,6,Online,107,Sports,2,170.27,0.30,VIP,South,238.38
+T2179,3/25/2027,16,In-store,110,Clothing,5,69.91,0.50,New,East,174.77
+T2180,3/26/2027,5,Online,106,Home & Kitchen,10,404.32,0.27,VIP,South,2951.54
+T2181,3/27/2027,14,In-store,136,Sports,1,346.54,0.25,Regular,North,259.91
+T2182,3/28/2027,16,In-store,123,Clothing,3,395.23,0.17,Regular,South,984.12
+T2183,3/29/2027,2,In-store,143,Electronics,1,478.67,0.44,New,West,268.06
+T2184,3/30/2027,19,In-store,106,,8,101.16,0.39,New,East,493.66
+T2185,3/31/2027,13,In-store,137,Home & Kitchen,6,214.98,0.14,VIP,Central,991.99
+T2186,4/1/2027,4,In-store,137,Home & Kitchen,7,170.49,0.41,Regular,South,704.12
+T2187,4/2/2027,5,Online,131,Home & Kitchen,7,460.19,0.38,New,Central,1997.22
+T2188,4/3/2027,20,In-store,132,Sports,4,311.76,0.40,Regular,East,748.22
+T2189,4/4/2027,1,Online,121,Beauty,2,339.09,0.11,New,South,603.58
+T2190,4/5/2027,2,Online,140,Beauty,9,352.57,0.43,New,West,1808.68
+T2191,4/6/2027,3,In-store,113,,1,235.8,0.37,Regular,West,148.55
+T2192,4/7/2027,3,Online,101,Beauty,6,484.32,0.16,Regular,Central,2440.97
+T2193,4/8/2027,17,Online,131,Beauty,2,98.97,0.27,New,North,144.50
+T2194,4/9/2027,11,Online,121,Home & Kitchen,4,365.92,0.00,VIP,West,1463.68
+T2195,4/10/2027,3,Online,142,Electronics,3,294.04,0.26,Regular,South,652.77
+T2196,4/11/2027,3,In-store,140,Beauty,10,331.67,0.42,New,Central,1923.69
+T2197,4/12/2027,2,Online,134,Electronics,10,393.45,0.12,Regular,South,3462.36
+T2198,4/13/2027,6,Online,150,Beauty,7,304.66,0.03,VIP,East,2068.64
+T2199,4/14/2027,15,In-store,101,Sports,7,89.22,0.33,New,Central,418.44
