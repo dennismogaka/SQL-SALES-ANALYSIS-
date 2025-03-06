@@ -8,12 +8,12 @@ This project is designed to demonstrate SQL skills and techniques typically used
 2.	Exploratory Data Analysis [EDA]: Perform basic Exploratory data analysis to understand the data set.
 3.	Business Analysis: Use SQL to answer specific questions and derive insights from the sales data.
 ## PROJECT STRUCTURE
-1.	DATA EXPLORATION AND CLEANING
-### •	Record Count: Determine the total number of records in the total number of records in the dataset.**
-### •	Customer Count: Find out how many unique customers are in the dataset.
-### •	Category Count: Identify all the unique product categories in the dataset.
-### •	Blanks: Check for any missing values in the dataset and derive records with missing values.
-2.	DATA ANALYSIS AND FINDINGS
+#### 1.	DATA EXPLORATION AND CLEANING
+#### •	Record Count: Determine the total number of records in the total number of records in the dataset.
+#### •	Customer Count: Find out how many unique customers are in the dataset.
+#### •	Category Count: Identify all the unique product categories in the dataset.
+#### •	Blanks: Check for any missing values in the dataset and derive records with missing values.
+### 2.	DATA ANALYSIS AND FINDINGS
 The following SQL Queries were developed to answer specific business questions.
 
 1.**write a query to retrieve all records from a table name sample_sales_data**:
