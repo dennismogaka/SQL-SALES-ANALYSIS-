@@ -111,4 +111,13 @@ SELECT
      ROUND(`COL 8`,0)
      FROM sample_sales_data;
 ```
+# FINDINGS
+•	Yearly sales show variation in sales helping identify peak years.
+•	The analysis identifies the top spending customers .
+•	The analysis identifies the most sold product category.
+•	It also identifies the region with highest revenue.
+•	The channel with highest revenue in the four years is also identified.
+# CONCLUSION
+The project covers data cleaning, Exploratory Data Analysis [EDA] and business driven SQL Queries. The findings from the project will be of great help in driving business decisions by understanding sales patterns, customer behavior , discount impact on sales and product performance.
+
  END OF PROJECT   
