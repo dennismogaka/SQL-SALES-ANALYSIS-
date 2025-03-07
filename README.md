@@ -1,4 +1,11 @@
 # SQL-SALES-ANALYSIS
+# Table of Contents  
+- [ Project Overview](#project-overview)  
+- [ Project Objective](#project-objective)  
+- [ Data Used](#data-used)  
+- [ Project Structure](#project-structure)  
+- [ Findings](#findings)  
+- [ Conclusion](#conclusion)
 ## PROJECT OVERVIEW
 ## Project Title: SQL Sales Analysis
 ## Database:
