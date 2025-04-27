@@ -1,26 +1,31 @@
 # SQL-SALES-ANALYSIS
-# Table of Contents  
+### Table of Contents  
 - [ Project Overview](#project-overview)  
 - [ Project Objective](#project-objective)  
 - [ Data Used](#data-used)  
 - [ Project Structure](#project-structure)  
 - [ Findings](#findings)  
 - [ Conclusion](#conclusion)
-## PROJECT OVERVIEW
-## Project Title: SQL Sales Analysis
-## Database:
+### PROJECT OVERVIEW
+#### Project Title: SQL Sales Analysis
+### Database:
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean and analyze sales data. The project involves performing exploratory data analysis (EDA) and answering specific business questions through SQL Queries.
-## OBJECTIVES
+### PROJECT OBJECTIVES
 1.	Data Cleaning: Identify and fill any records with missing and NULL values.
 2.	Exploratory Data Analysis [EDA]: Perform basic Exploratory data analysis to understand the data set.
 3.	Business Analysis: Use SQL to answer specific questions and derive insights from the sales data.
-## PROJECT STRUCTURE
+### PROJECT STRUCTURE
 #### 1.	DATA EXPLORATION AND CLEANING
-#### •	Record Count: Determine the total number of records in the total number of records in the dataset.
-#### •	Customer Count: Find out how many unique customers are in the dataset.
-#### •	Category Count: Identify all the unique product categories in the dataset.
-#### •	Blanks: Check for any missing values in the dataset and derive records with missing values.
-### 2.	DATA ANALYSIS AND FINDINGS
+ •	Record Count: Determine the total number of records in the total number of records in the dataset.
+ 
+ •	Customer Count: Find out how many unique customers are in the dataset.
+ 
+ •	Category Count: Identify all the unique product categories in the dataset.
+ 
+ •	Blanks: Check for any missing values in the dataset and derive records with missing values.
+ 
+#### 2.	DATA ANALYSIS AND FINDINGS
+
 The following SQL Queries were developed to answer specific business questions.
 
 1.**write a query to retrieve all records from a table name sample_sales_data**:
@@ -66,7 +71,7 @@ SELECT COUNT(DISTINCT `COL 5`) AS Number_productid FROM sample_sales_data;
 ```sql
 SELECT CAST(SUM(`COL 12`) AS DECIMAL(10,0)) AS Total_Revenue FROM sample_sales_data;
 ```
-11.**write a query to calculate total revenue per product category**.
+11.**write a query to calculate total revenue per product category**
 ```sql
 SELECT `COL 6`,
       ROUND(SUM(`COL 12`),0) AS Total_revenuep
@@ -118,13 +123,19 @@ SELECT
      ROUND(`COL 8`,0)
      FROM sample_sales_data;
 ```
-# FINDINGS
+### FINDINGS
 •	Yearly sales show variation in sales helping identify peak years.
+
 •	The analysis identifies the top spending customers .
+
 •	The analysis identifies the most sold product category.
+
 •	It also identifies the region with highest revenue.
+
 •	The channel with highest revenue in the four years is also identified.
-# CONCLUSION
+
+### CONCLUSION
+
 The project covers data cleaning, Exploratory Data Analysis [EDA] and business driven SQL Queries. The findings from the project will be of great help in driving business decisions by understanding sales patterns, customer behavior , discount impact on sales and product performance.
 
  END OF PROJECT   
