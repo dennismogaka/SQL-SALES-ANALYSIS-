@@ -10,7 +10,7 @@
 #### Project Title: SQL Sales Analysis
 ### Database:
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean and analyze sales data. The project involves performing exploratory data analysis (EDA) and answering specific business questions through SQL Queries.
-### PROJECT OBJECTIVES
+### PROJECT OBJECTIVE
 1.	Data Cleaning: Identify and fill any records with missing and NULL values.
 2.	Exploratory Data Analysis [EDA]: Perform basic Exploratory data analysis to understand the data set.
 3.	Business Analysis: Use SQL to answer specific questions and derive insights from the sales data.
